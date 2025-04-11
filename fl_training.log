@@ -1,0 +1,1361 @@
+2025-04-10 23:08:02,734 - INFO - 训练开始前全局模型参数统计：
+2025-04-10 23:08:02,735 - INFO - 总参数量: 84.05181M
+2025-04-10 23:08:02,735 - INFO - 可训练参数量: 2.13923M
+2025-04-10 23:08:04,440 - INFO - Start training...
+2025-04-10 23:08:29,265 - INFO - Epoch: 1/1000 Client: 1 training loss: 0.8259090
+2025-04-10 23:08:54,064 - INFO - Epoch: 1/1000 Client: 2 training loss: 0.8136150
+2025-04-10 23:09:19,059 - INFO - Epoch: 1/1000 Client: 3 training loss: 0.8125154
+2025-04-10 23:09:44,106 - INFO - Epoch: 1/1000 Client: 4 training loss: 0.8108520
+2025-04-10 23:10:09,239 - INFO - Epoch: 1/1000 Client: 5 training loss: 0.8104204
+2025-04-10 23:10:14,681 - INFO - validate loss: 1.0544780
+2025-04-10 23:17:36,296 - INFO - 训练开始前全局模型参数统计：
+2025-04-10 23:17:36,297 - INFO - 总参数量: 84.05181M
+2025-04-10 23:17:36,298 - INFO - 可训练参数量: 2.13923M
+2025-04-10 23:17:37,971 - INFO - Start training...
+2025-04-10 23:18:02,730 - INFO - Epoch: 1/1000 Client: 1 training loss: 0.8226645
+2025-04-10 23:18:27,423 - INFO - Epoch: 1/1000 Client: 2 training loss: 0.8198168
+2025-04-10 23:18:52,339 - INFO - Epoch: 1/1000 Client: 3 training loss: 0.8152526
+2025-04-10 23:19:17,318 - INFO - Epoch: 1/1000 Client: 4 training loss: 0.8119296
+2025-04-10 23:19:42,344 - INFO - Epoch: 1/1000 Client: 5 training loss: 0.8058549
+2025-04-10 23:19:47,760 - INFO - validate loss: 1.0391767
+2025-04-10 23:19:48,178 - INFO - Best global model saved with validation loss: 1.0391767
+2025-04-10 23:20:13,187 - INFO - Epoch: 2/1000 Client: 1 training loss: 0.9696826
+2025-04-10 23:20:38,357 - INFO - Epoch: 2/1000 Client: 2 training loss: 0.9733504
+2025-04-10 23:21:03,563 - INFO - Epoch: 2/1000 Client: 3 training loss: 0.9823684
+2025-04-10 23:21:28,802 - INFO - Epoch: 2/1000 Client: 4 training loss: 0.9872961
+2025-04-10 23:21:54,005 - INFO - Epoch: 2/1000 Client: 5 training loss: 0.9898663
+2025-04-10 23:21:59,419 - INFO - validate loss: 1.0351489
+2025-04-10 23:21:59,983 - INFO - Best global model saved with validation loss: 1.0351489
+2025-04-10 23:22:25,087 - INFO - Epoch: 3/1000 Client: 1 training loss: 0.7864630
+2025-04-10 23:22:50,343 - INFO - Epoch: 3/1000 Client: 2 training loss: 0.7399089
+2025-04-10 23:23:15,571 - INFO - Epoch: 3/1000 Client: 3 training loss: 0.7399104
+2025-04-10 23:23:40,816 - INFO - Epoch: 3/1000 Client: 4 training loss: 0.7520375
+2025-04-10 23:24:06,090 - INFO - Epoch: 3/1000 Client: 5 training loss: 0.7668350
+2025-04-10 23:24:11,949 - INFO - validate loss: 1.0335054
+2025-04-10 23:24:12,519 - INFO - Best global model saved with validation loss: 1.0335054
+2025-04-10 23:24:37,691 - INFO - Epoch: 4/1000 Client: 1 training loss: 0.9832507
+2025-04-10 23:25:29,959 - INFO - Epoch: 4/1000 Client: 2 training loss: 0.9922450
+2025-04-10 23:26:18,308 - INFO - Epoch: 4/1000 Client: 3 training loss: 0.9906989
+2025-04-10 23:26:43,552 - INFO - Epoch: 4/1000 Client: 4 training loss: 0.9845591
+2025-04-10 23:27:08,833 - INFO - Epoch: 4/1000 Client: 5 training loss: 0.9849448
+2025-04-10 23:27:14,259 - INFO - validate loss: 1.0317365
+2025-04-10 23:27:14,830 - INFO - Best global model saved with validation loss: 1.0317365
+2025-04-10 23:27:39,982 - INFO - Epoch: 5/1000 Client: 1 training loss: 0.6396429
+2025-04-10 23:28:05,227 - INFO - Epoch: 5/1000 Client: 2 training loss: 0.7123905
+2025-04-10 23:28:30,487 - INFO - Epoch: 5/1000 Client: 3 training loss: 0.6861904
+2025-04-10 23:28:55,722 - INFO - Epoch: 5/1000 Client: 4 training loss: 0.6694518
+2025-04-10 23:29:20,976 - INFO - Epoch: 5/1000 Client: 5 training loss: 0.6678675
+2025-04-10 23:29:26,375 - INFO - validate loss: 1.0299176
+2025-04-10 23:29:26,936 - INFO - Best global model saved with validation loss: 1.0299176
+2025-04-10 23:29:52,240 - INFO - Epoch: 6/1000 Client: 1 training loss: 0.7777468
+2025-04-10 23:30:21,179 - INFO - Epoch: 6/1000 Client: 2 training loss: 0.8517819
+2025-04-10 23:31:14,272 - INFO - Epoch: 6/1000 Client: 3 training loss: 0.8341709
+2025-04-10 23:31:58,472 - INFO - Epoch: 6/1000 Client: 4 training loss: 0.8461112
+2025-04-10 23:32:23,717 - INFO - Epoch: 6/1000 Client: 5 training loss: 0.8405628
+2025-04-10 23:32:29,101 - INFO - validate loss: 1.0278245
+2025-04-10 23:32:29,664 - INFO - Best global model saved with validation loss: 1.0278245
+2025-04-10 23:32:54,852 - INFO - Epoch: 7/1000 Client: 1 training loss: 0.7030042
+2025-04-10 23:33:20,091 - INFO - Epoch: 7/1000 Client: 2 training loss: 0.6550765
+2025-04-10 23:33:45,347 - INFO - Epoch: 7/1000 Client: 3 training loss: 0.6647870
+2025-04-10 23:34:10,586 - INFO - Epoch: 7/1000 Client: 4 training loss: 0.6624024
+2025-04-10 23:34:36,124 - INFO - Epoch: 7/1000 Client: 5 training loss: 0.7236648
+2025-04-10 23:34:41,596 - INFO - validate loss: 1.0254214
+2025-04-10 23:34:42,136 - INFO - Best global model saved with validation loss: 1.0254214
+2025-04-10 23:35:18,892 - INFO - Epoch: 8/1000 Client: 1 training loss: 0.7239869
+2025-04-10 23:36:12,501 - INFO - Epoch: 8/1000 Client: 2 training loss: 0.6964529
+2025-04-10 23:37:06,150 - INFO - Epoch: 8/1000 Client: 3 training loss: 0.6929279
+2025-04-10 23:37:59,820 - INFO - Epoch: 8/1000 Client: 4 training loss: 0.6964312
+2025-04-10 23:38:53,399 - INFO - Epoch: 8/1000 Client: 5 training loss: 0.6590137
+2025-04-10 23:39:04,729 - INFO - validate loss: 1.0223476
+2025-04-10 23:39:05,287 - INFO - Best global model saved with validation loss: 1.0223476
+2025-04-10 23:39:58,649 - INFO - Epoch: 9/1000 Client: 1 training loss: 0.5798048
+2025-04-10 23:40:52,196 - INFO - Epoch: 9/1000 Client: 2 training loss: 0.5917716
+2025-04-10 23:41:45,733 - INFO - Epoch: 9/1000 Client: 3 training loss: 0.5933925
+2025-04-10 23:42:39,237 - INFO - Epoch: 9/1000 Client: 4 training loss: 0.5946720
+2025-04-10 23:43:32,731 - INFO - Epoch: 9/1000 Client: 5 training loss: 0.5987755
+2025-04-10 23:43:44,062 - INFO - validate loss: 1.0184614
+2025-04-10 23:43:44,627 - INFO - Best global model saved with validation loss: 1.0184614
+2025-04-10 23:44:37,956 - INFO - Epoch: 10/1000 Client: 1 training loss: 0.5400258
+2025-04-10 23:45:31,496 - INFO - Epoch: 10/1000 Client: 2 training loss: 0.5446026
+2025-04-10 23:46:25,054 - INFO - Epoch: 10/1000 Client: 3 training loss: 0.5487858
+2025-04-10 23:47:18,660 - INFO - Epoch: 10/1000 Client: 4 training loss: 0.5486204
+2025-04-10 23:48:12,230 - INFO - Epoch: 10/1000 Client: 5 training loss: 0.5497295
+2025-04-10 23:48:23,554 - INFO - validate loss: 1.0131027
+2025-04-10 23:48:24,111 - INFO - Best global model saved with validation loss: 1.0131027
+2025-04-10 23:49:17,508 - INFO - Epoch: 11/1000 Client: 1 training loss: 0.5095794
+2025-04-10 23:50:11,110 - INFO - Epoch: 11/1000 Client: 2 training loss: 0.5034074
+2025-04-10 23:51:04,736 - INFO - Epoch: 11/1000 Client: 3 training loss: 0.5049719
+2025-04-10 23:51:58,342 - INFO - Epoch: 11/1000 Client: 4 training loss: 0.5042778
+2025-04-10 23:52:52,029 - INFO - Epoch: 11/1000 Client: 5 training loss: 0.5045404
+2025-04-10 23:53:03,355 - INFO - validate loss: 1.0057770
+2025-04-10 23:53:03,909 - INFO - Best global model saved with validation loss: 1.0057770
+2025-04-10 23:53:57,346 - INFO - Epoch: 12/1000 Client: 1 training loss: 0.4684026
+2025-04-10 23:54:50,998 - INFO - Epoch: 12/1000 Client: 2 training loss: 0.4693578
+2025-04-10 23:55:44,688 - INFO - Epoch: 12/1000 Client: 3 training loss: 0.4683812
+2025-04-10 23:56:38,392 - INFO - Epoch: 12/1000 Client: 4 training loss: 0.4712722
+2025-04-10 23:57:32,123 - INFO - Epoch: 12/1000 Client: 5 training loss: 0.4715895
+2025-04-10 23:57:43,473 - INFO - validate loss: 0.9954521
+2025-04-10 23:57:44,045 - INFO - Best global model saved with validation loss: 0.9954521
+2025-04-10 23:58:37,547 - INFO - Epoch: 13/1000 Client: 1 training loss: 0.4444520
+2025-04-10 23:59:31,210 - INFO - Epoch: 13/1000 Client: 2 training loss: 0.4439169
+2025-04-11 00:00:24,841 - INFO - Epoch: 13/1000 Client: 3 training loss: 0.4430019
+2025-04-11 00:01:18,441 - INFO - Epoch: 13/1000 Client: 4 training loss: 0.4433074
+2025-04-11 00:02:12,011 - INFO - Epoch: 13/1000 Client: 5 training loss: 0.4420164
+2025-04-11 00:02:23,339 - INFO - validate loss: 0.9810341
+2025-04-11 00:02:23,902 - INFO - Best global model saved with validation loss: 0.9810341
+2025-04-11 00:03:17,285 - INFO - Epoch: 14/1000 Client: 1 training loss: 0.4193502
+2025-04-11 00:04:10,855 - INFO - Epoch: 14/1000 Client: 2 training loss: 0.4184990
+2025-04-11 00:05:04,417 - INFO - Epoch: 14/1000 Client: 3 training loss: 0.4188045
+2025-04-11 00:05:57,929 - INFO - Epoch: 14/1000 Client: 4 training loss: 0.4188391
+2025-04-11 00:06:51,464 - INFO - Epoch: 14/1000 Client: 5 training loss: 0.4180366
+2025-04-11 00:07:02,854 - INFO - validate loss: 0.9614247
+2025-04-11 00:07:03,425 - INFO - Best global model saved with validation loss: 0.9614247
+2025-04-11 00:07:56,785 - INFO - Epoch: 15/1000 Client: 1 training loss: 0.3940079
+2025-04-11 00:08:50,374 - INFO - Epoch: 15/1000 Client: 2 training loss: 0.3967541
+2025-04-11 00:09:43,975 - INFO - Epoch: 15/1000 Client: 3 training loss: 0.3973429
+2025-04-11 00:10:37,481 - INFO - Epoch: 15/1000 Client: 4 training loss: 0.3979784
+2025-04-11 00:11:30,950 - INFO - Epoch: 15/1000 Client: 5 training loss: 0.3972196
+2025-04-11 00:11:42,289 - INFO - validate loss: 0.9342247
+2025-04-11 00:11:42,858 - INFO - Best global model saved with validation loss: 0.9342247
+2025-04-11 00:12:36,149 - INFO - Epoch: 16/1000 Client: 1 training loss: 0.3781676
+2025-04-11 00:13:28,596 - INFO - Epoch: 16/1000 Client: 2 training loss: 0.3801502
+2025-04-11 00:14:22,270 - INFO - Epoch: 16/1000 Client: 3 training loss: 0.3795278
+2025-04-11 00:15:15,962 - INFO - Epoch: 16/1000 Client: 4 training loss: 0.3807905
+2025-04-11 00:16:09,652 - INFO - Epoch: 16/1000 Client: 5 training loss: 0.3801314
+2025-04-11 00:16:21,163 - INFO - validate loss: 0.9028200
+2025-04-11 00:16:21,714 - INFO - Best global model saved with validation loss: 0.9028200
+2025-04-11 00:17:15,175 - INFO - Epoch: 17/1000 Client: 1 training loss: 0.3652794
+2025-04-11 00:18:08,889 - INFO - Epoch: 17/1000 Client: 2 training loss: 0.3664750
+2025-04-11 00:19:02,631 - INFO - Epoch: 17/1000 Client: 3 training loss: 0.3668987
+2025-04-11 00:19:56,276 - INFO - Epoch: 17/1000 Client: 4 training loss: 0.3664394
+2025-04-11 00:20:49,941 - INFO - Epoch: 17/1000 Client: 5 training loss: 0.3660718
+2025-04-11 00:21:01,319 - INFO - validate loss: 0.8656039
+2025-04-11 00:21:01,885 - INFO - Best global model saved with validation loss: 0.8656039
+2025-04-11 00:21:55,305 - INFO - Epoch: 18/1000 Client: 1 training loss: 0.3525172
+2025-04-11 00:22:48,877 - INFO - Epoch: 18/1000 Client: 2 training loss: 0.3532337
+2025-04-11 00:23:42,451 - INFO - Epoch: 18/1000 Client: 3 training loss: 0.3533328
+2025-04-11 00:24:36,028 - INFO - Epoch: 18/1000 Client: 4 training loss: 0.3542826
+2025-04-11 00:25:29,565 - INFO - Epoch: 18/1000 Client: 5 training loss: 0.3536252
+2025-04-11 00:25:40,874 - INFO - validate loss: 0.8260284
+2025-04-11 00:25:41,439 - INFO - Best global model saved with validation loss: 0.8260284
+2025-04-11 00:26:34,765 - INFO - Epoch: 19/1000 Client: 1 training loss: 0.3396556
+2025-04-11 00:27:28,289 - INFO - Epoch: 19/1000 Client: 2 training loss: 0.3405141
+2025-04-11 00:28:21,871 - INFO - Epoch: 19/1000 Client: 3 training loss: 0.3409562
+2025-04-11 00:29:15,471 - INFO - Epoch: 19/1000 Client: 4 training loss: 0.3414974
+2025-04-11 00:30:09,091 - INFO - Epoch: 19/1000 Client: 5 training loss: 0.3407210
+2025-04-11 00:30:20,490 - INFO - validate loss: 0.7830484
+2025-04-11 00:30:21,042 - INFO - Best global model saved with validation loss: 0.7830484
+2025-04-11 00:31:14,451 - INFO - Epoch: 20/1000 Client: 1 training loss: 0.3293034
+2025-04-11 00:32:08,049 - INFO - Epoch: 20/1000 Client: 2 training loss: 0.3312415
+2025-04-11 00:33:01,691 - INFO - Epoch: 20/1000 Client: 3 training loss: 0.3306061
+2025-04-11 00:33:55,339 - INFO - Epoch: 20/1000 Client: 4 training loss: 0.3308768
+2025-04-11 00:34:49,011 - INFO - Epoch: 20/1000 Client: 5 training loss: 0.3303523
+2025-04-11 00:35:00,366 - INFO - validate loss: 0.7378082
+2025-04-11 00:35:00,914 - INFO - Best global model saved with validation loss: 0.7378082
+2025-04-11 00:35:54,367 - INFO - Epoch: 21/1000 Client: 1 training loss: 0.3194624
+2025-04-11 00:36:48,069 - INFO - Epoch: 21/1000 Client: 2 training loss: 0.3208465
+2025-04-11 00:37:41,727 - INFO - Epoch: 21/1000 Client: 3 training loss: 0.3208231
+2025-04-11 00:38:35,412 - INFO - Epoch: 21/1000 Client: 4 training loss: 0.3209888
+2025-04-11 00:39:29,110 - INFO - Epoch: 21/1000 Client: 5 training loss: 0.3206176
+2025-04-11 00:39:40,505 - INFO - validate loss: 0.6972624
+2025-04-11 00:39:41,046 - INFO - Best global model saved with validation loss: 0.6972624
+2025-04-11 00:40:34,507 - INFO - Epoch: 22/1000 Client: 1 training loss: 0.3115544
+2025-04-11 00:41:28,143 - INFO - Epoch: 22/1000 Client: 2 training loss: 0.3128254
+2025-04-11 00:42:21,754 - INFO - Epoch: 22/1000 Client: 3 training loss: 0.3128137
+2025-04-11 00:43:15,409 - INFO - Epoch: 22/1000 Client: 4 training loss: 0.3129015
+2025-04-11 00:44:09,016 - INFO - Epoch: 22/1000 Client: 5 training loss: 0.3124037
+2025-04-11 00:44:20,326 - INFO - validate loss: 0.6566928
+2025-04-11 00:44:20,889 - INFO - Best global model saved with validation loss: 0.6566928
+2025-04-11 00:45:14,217 - INFO - Epoch: 23/1000 Client: 1 training loss: 0.3043362
+2025-04-11 00:46:07,795 - INFO - Epoch: 23/1000 Client: 2 training loss: 0.3044701
+2025-04-11 00:47:01,329 - INFO - Epoch: 23/1000 Client: 3 training loss: 0.3047316
+2025-04-11 00:47:54,869 - INFO - Epoch: 23/1000 Client: 4 training loss: 0.3055168
+2025-04-11 00:48:48,306 - INFO - Epoch: 23/1000 Client: 5 training loss: 0.3045715
+2025-04-11 00:48:59,602 - INFO - validate loss: 0.6197988
+2025-04-11 00:49:00,162 - INFO - Best global model saved with validation loss: 0.6197988
+2025-04-11 00:49:53,432 - INFO - Epoch: 24/1000 Client: 1 training loss: 0.2958679
+2025-04-11 00:50:46,936 - INFO - Epoch: 24/1000 Client: 2 training loss: 0.2967554
+2025-04-11 00:51:39,103 - INFO - Epoch: 24/1000 Client: 3 training loss: 0.2977784
+2025-04-11 00:52:32,751 - INFO - Epoch: 24/1000 Client: 4 training loss: 0.2985166
+2025-04-11 00:53:26,386 - INFO - Epoch: 24/1000 Client: 5 training loss: 0.2978283
+2025-04-11 00:53:37,751 - INFO - validate loss: 0.5889537
+2025-04-11 00:53:38,313 - INFO - Best global model saved with validation loss: 0.5889537
+2025-04-11 00:54:31,774 - INFO - Epoch: 25/1000 Client: 1 training loss: 0.2877860
+2025-04-11 00:55:25,411 - INFO - Epoch: 25/1000 Client: 2 training loss: 0.2897357
+2025-04-11 00:56:19,095 - INFO - Epoch: 25/1000 Client: 3 training loss: 0.2904020
+2025-04-11 00:57:12,804 - INFO - Epoch: 25/1000 Client: 4 training loss: 0.2903024
+2025-04-11 00:58:06,523 - INFO - Epoch: 25/1000 Client: 5 training loss: 0.2897981
+2025-04-11 00:58:17,910 - INFO - validate loss: 0.5630683
+2025-04-11 00:58:18,674 - INFO - Best global model saved with validation loss: 0.5630683
+2025-04-11 00:59:12,187 - INFO - Epoch: 26/1000 Client: 1 training loss: 0.2823954
+2025-04-11 01:00:05,935 - INFO - Epoch: 26/1000 Client: 2 training loss: 0.2827999
+2025-04-11 01:00:59,616 - INFO - Epoch: 26/1000 Client: 3 training loss: 0.2826326
+2025-04-11 01:01:53,270 - INFO - Epoch: 26/1000 Client: 4 training loss: 0.2834324
+2025-04-11 01:02:46,947 - INFO - Epoch: 26/1000 Client: 5 training loss: 0.2830067
+2025-04-11 01:02:58,447 - INFO - validate loss: 0.5422433
+2025-04-11 01:02:59,039 - INFO - Best global model saved with validation loss: 0.5422433
+2025-04-11 01:03:52,413 - INFO - Epoch: 27/1000 Client: 1 training loss: 0.2781538
+2025-04-11 01:04:45,998 - INFO - Epoch: 27/1000 Client: 2 training loss: 0.2777108
+2025-04-11 01:05:39,584 - INFO - Epoch: 27/1000 Client: 3 training loss: 0.2781838
+2025-04-11 01:06:33,157 - INFO - Epoch: 27/1000 Client: 4 training loss: 0.2790938
+2025-04-11 01:07:26,708 - INFO - Epoch: 27/1000 Client: 5 training loss: 0.2785557
+2025-04-11 01:07:38,100 - INFO - validate loss: 0.5214917
+2025-04-11 01:07:38,649 - INFO - Best global model saved with validation loss: 0.5214917
+2025-04-11 01:08:31,994 - INFO - Epoch: 28/1000 Client: 1 training loss: 0.2714765
+2025-04-11 01:09:25,510 - INFO - Epoch: 28/1000 Client: 2 training loss: 0.2727990
+2025-04-11 01:10:19,054 - INFO - Epoch: 28/1000 Client: 3 training loss: 0.2736742
+2025-04-11 01:11:12,599 - INFO - Epoch: 28/1000 Client: 4 training loss: 0.2739540
+2025-04-11 01:12:06,160 - INFO - Epoch: 28/1000 Client: 5 training loss: 0.2735557
+2025-04-11 01:12:17,588 - INFO - validate loss: 0.5091976
+2025-04-11 01:12:18,138 - INFO - Best global model saved with validation loss: 0.5091976
+2025-04-11 01:13:11,511 - INFO - Epoch: 29/1000 Client: 1 training loss: 0.2676095
+2025-04-11 01:14:05,126 - INFO - Epoch: 29/1000 Client: 2 training loss: 0.2676583
+2025-04-11 01:14:58,771 - INFO - Epoch: 29/1000 Client: 3 training loss: 0.2683940
+2025-04-11 01:15:52,426 - INFO - Epoch: 29/1000 Client: 4 training loss: 0.2686039
+2025-04-11 01:16:46,083 - INFO - Epoch: 29/1000 Client: 5 training loss: 0.2678402
+2025-04-11 01:16:57,460 - INFO - validate loss: 0.4994406
+2025-04-11 01:16:58,023 - INFO - Best global model saved with validation loss: 0.4994406
+2025-04-11 01:17:51,492 - INFO - Epoch: 30/1000 Client: 1 training loss: 0.2613816
+2025-04-11 01:18:45,126 - INFO - Epoch: 30/1000 Client: 2 training loss: 0.2621215
+2025-04-11 01:19:38,817 - INFO - Epoch: 30/1000 Client: 3 training loss: 0.2635062
+2025-04-11 01:20:32,488 - INFO - Epoch: 30/1000 Client: 4 training loss: 0.2644145
+2025-04-11 01:21:26,171 - INFO - Epoch: 30/1000 Client: 5 training loss: 0.2637620
+2025-04-11 01:21:37,548 - INFO - validate loss: 0.4931568
+2025-04-11 01:21:38,100 - INFO - Best global model saved with validation loss: 0.4931568
+2025-04-11 01:22:31,565 - INFO - Epoch: 31/1000 Client: 1 training loss: 0.2575044
+2025-04-11 01:23:25,246 - INFO - Epoch: 31/1000 Client: 2 training loss: 0.2586557
+2025-04-11 01:24:18,911 - INFO - Epoch: 31/1000 Client: 3 training loss: 0.2595256
+2025-04-11 01:25:11,460 - INFO - Epoch: 31/1000 Client: 4 training loss: 0.2599512
+2025-04-11 01:26:05,045 - INFO - Epoch: 31/1000 Client: 5 training loss: 0.2594874
+2025-04-11 01:26:16,426 - INFO - validate loss: 0.4876369
+2025-04-11 01:26:16,986 - INFO - Best global model saved with validation loss: 0.4876369
+2025-04-11 01:27:10,259 - INFO - Epoch: 32/1000 Client: 1 training loss: 0.2555941
+2025-04-11 01:28:03,736 - INFO - Epoch: 32/1000 Client: 2 training loss: 0.2561145
+2025-04-11 01:28:57,209 - INFO - Epoch: 32/1000 Client: 3 training loss: 0.2563100
+2025-04-11 01:29:49,396 - INFO - Epoch: 32/1000 Client: 4 training loss: 0.2568621
+2025-04-11 01:30:42,960 - INFO - Epoch: 32/1000 Client: 5 training loss: 0.2562428
+2025-04-11 01:30:54,345 - INFO - validate loss: 0.4832783
+2025-04-11 01:30:54,900 - INFO - Best global model saved with validation loss: 0.4832783
+2025-04-11 01:31:48,221 - INFO - Epoch: 33/1000 Client: 1 training loss: 0.2518420
+2025-04-11 01:32:41,795 - INFO - Epoch: 33/1000 Client: 2 training loss: 0.2528426
+2025-04-11 01:33:35,407 - INFO - Epoch: 33/1000 Client: 3 training loss: 0.2529208
+2025-04-11 01:34:29,029 - INFO - Epoch: 33/1000 Client: 4 training loss: 0.2536418
+2025-04-11 01:35:22,651 - INFO - Epoch: 33/1000 Client: 5 training loss: 0.2531940
+2025-04-11 01:35:34,042 - INFO - validate loss: 0.4751238
+2025-04-11 01:35:34,586 - INFO - Best global model saved with validation loss: 0.4751238
+2025-04-11 01:36:28,027 - INFO - Epoch: 34/1000 Client: 1 training loss: 0.2481254
+2025-04-11 01:37:21,693 - INFO - Epoch: 34/1000 Client: 2 training loss: 0.2489465
+2025-04-11 01:38:15,363 - INFO - Epoch: 34/1000 Client: 3 training loss: 0.2495515
+2025-04-11 01:39:09,043 - INFO - Epoch: 34/1000 Client: 4 training loss: 0.2504297
+2025-04-11 01:40:02,746 - INFO - Epoch: 34/1000 Client: 5 training loss: 0.2498812
+2025-04-11 01:40:14,087 - INFO - validate loss: 0.4739389
+2025-04-11 01:40:14,629 - INFO - Best global model saved with validation loss: 0.4739389
+2025-04-11 01:41:08,162 - INFO - Epoch: 35/1000 Client: 1 training loss: 0.2456325
+2025-04-11 01:42:01,851 - INFO - Epoch: 35/1000 Client: 2 training loss: 0.2451652
+2025-04-11 01:42:55,597 - INFO - Epoch: 35/1000 Client: 3 training loss: 0.2461743
+2025-04-11 01:43:49,270 - INFO - Epoch: 35/1000 Client: 4 training loss: 0.2466877
+2025-04-11 01:44:43,010 - INFO - Epoch: 35/1000 Client: 5 training loss: 0.2466158
+2025-04-11 01:44:54,516 - INFO - validate loss: 0.4750591
+2025-04-11 01:45:48,037 - INFO - Epoch: 36/1000 Client: 1 training loss: 0.2428312
+2025-04-11 01:46:41,702 - INFO - Epoch: 36/1000 Client: 2 training loss: 0.2430937
+2025-04-11 01:47:35,358 - INFO - Epoch: 36/1000 Client: 3 training loss: 0.2436401
+2025-04-11 01:48:29,002 - INFO - Epoch: 36/1000 Client: 4 training loss: 0.2437026
+2025-04-11 01:49:22,630 - INFO - Epoch: 36/1000 Client: 5 training loss: 0.2429483
+2025-04-11 01:49:33,989 - INFO - validate loss: 0.4781026
+2025-04-11 01:50:27,388 - INFO - Epoch: 37/1000 Client: 1 training loss: 0.2383049
+2025-04-11 01:51:20,946 - INFO - Epoch: 37/1000 Client: 2 training loss: 0.2393587
+2025-04-11 01:52:14,474 - INFO - Epoch: 37/1000 Client: 3 training loss: 0.2403142
+2025-04-11 01:53:08,050 - INFO - Epoch: 37/1000 Client: 4 training loss: 0.2408543
+2025-04-11 01:54:01,612 - INFO - Epoch: 37/1000 Client: 5 training loss: 0.2405498
+2025-04-11 01:54:12,969 - INFO - validate loss: 0.4802121
+2025-04-11 01:55:06,363 - INFO - Epoch: 38/1000 Client: 1 training loss: 0.2395079
+2025-04-11 01:55:59,939 - INFO - Epoch: 38/1000 Client: 2 training loss: 0.2386819
+2025-04-11 01:56:53,575 - INFO - Epoch: 38/1000 Client: 3 training loss: 0.2388067
+2025-04-11 01:57:47,223 - INFO - Epoch: 38/1000 Client: 4 training loss: 0.2387686
+2025-04-11 01:58:40,872 - INFO - Epoch: 38/1000 Client: 5 training loss: 0.2384711
+2025-04-11 01:58:52,262 - INFO - validate loss: 0.4814867
+2025-04-11 01:59:45,695 - INFO - Epoch: 39/1000 Client: 1 training loss: 0.2363093
+2025-04-11 02:00:39,344 - INFO - Epoch: 39/1000 Client: 2 training loss: 0.2366165
+2025-04-11 02:01:33,021 - INFO - Epoch: 39/1000 Client: 3 training loss: 0.2368692
+2025-04-11 02:02:26,699 - INFO - Epoch: 39/1000 Client: 4 training loss: 0.2374295
+2025-04-11 02:03:20,379 - INFO - Epoch: 39/1000 Client: 5 training loss: 0.2368046
+2025-04-11 02:03:31,962 - INFO - validate loss: 0.4813304
+2025-04-11 02:04:25,437 - INFO - Epoch: 40/1000 Client: 1 training loss: 0.2333849
+2025-04-11 02:05:18,988 - INFO - Epoch: 40/1000 Client: 2 training loss: 0.2342399
+2025-04-11 02:06:12,557 - INFO - Epoch: 40/1000 Client: 3 training loss: 0.2348100
+2025-04-11 02:07:06,163 - INFO - Epoch: 40/1000 Client: 4 training loss: 0.2349010
+2025-04-11 02:07:58,491 - INFO - Epoch: 40/1000 Client: 5 training loss: 0.2339611
+2025-04-11 02:08:09,868 - INFO - validate loss: 0.4837483
+2025-04-11 02:09:03,412 - INFO - Epoch: 41/1000 Client: 1 training loss: 0.2314365
+2025-04-11 02:09:57,109 - INFO - Epoch: 41/1000 Client: 2 training loss: 0.2321649
+2025-04-11 02:10:50,816 - INFO - Epoch: 41/1000 Client: 3 training loss: 0.2323747
+2025-04-11 02:11:44,446 - INFO - Epoch: 41/1000 Client: 4 training loss: 0.2327471
+2025-04-11 02:12:38,108 - INFO - Epoch: 41/1000 Client: 5 training loss: 0.2325746
+2025-04-11 02:12:49,462 - INFO - validate loss: 0.4859279
+2025-04-11 02:13:42,859 - INFO - Epoch: 42/1000 Client: 1 training loss: 0.2314801
+2025-04-11 02:14:36,461 - INFO - Epoch: 42/1000 Client: 2 training loss: 0.2321041
+2025-04-11 02:15:30,088 - INFO - Epoch: 42/1000 Client: 3 training loss: 0.2329122
+2025-04-11 02:16:23,649 - INFO - Epoch: 42/1000 Client: 4 training loss: 0.2331499
+2025-04-11 02:17:17,219 - INFO - Epoch: 42/1000 Client: 5 training loss: 0.2326557
+2025-04-11 02:17:28,524 - INFO - validate loss: 0.4829600
+2025-04-11 02:18:21,910 - INFO - Epoch: 43/1000 Client: 1 training loss: 0.2267529
+2025-04-11 02:19:15,522 - INFO - Epoch: 43/1000 Client: 2 training loss: 0.2285516
+2025-04-11 02:20:09,099 - INFO - Epoch: 43/1000 Client: 3 training loss: 0.2296665
+2025-04-11 02:21:02,758 - INFO - Epoch: 43/1000 Client: 4 training loss: 0.2299947
+2025-04-11 02:21:56,406 - INFO - Epoch: 43/1000 Client: 5 training loss: 0.2297026
+2025-04-11 02:22:07,749 - INFO - validate loss: 0.4781827
+2025-04-11 02:23:01,197 - INFO - Epoch: 44/1000 Client: 1 training loss: 0.2272462
+2025-04-11 02:23:53,848 - INFO - Epoch: 44/1000 Client: 2 training loss: 0.2266851
+2025-04-11 02:24:47,503 - INFO - Epoch: 44/1000 Client: 3 training loss: 0.2272733
+2025-04-11 02:25:41,134 - INFO - Epoch: 44/1000 Client: 4 training loss: 0.2278740
+2025-04-11 02:26:34,769 - INFO - Epoch: 44/1000 Client: 5 training loss: 0.2270151
+2025-04-11 02:26:46,124 - INFO - validate loss: 0.4729428
+2025-04-11 02:26:46,683 - INFO - Best global model saved with validation loss: 0.4729428
+2025-04-11 02:27:40,097 - INFO - Epoch: 45/1000 Client: 1 training loss: 0.2243095
+2025-04-11 02:28:33,687 - INFO - Epoch: 45/1000 Client: 2 training loss: 0.2253862
+2025-04-11 02:29:27,264 - INFO - Epoch: 45/1000 Client: 3 training loss: 0.2259234
+2025-04-11 02:30:20,808 - INFO - Epoch: 45/1000 Client: 4 training loss: 0.2263886
+2025-04-11 02:31:14,378 - INFO - Epoch: 45/1000 Client: 5 training loss: 0.2257678
+2025-04-11 02:31:25,762 - INFO - validate loss: 0.4645461
+2025-04-11 02:31:26,310 - INFO - Best global model saved with validation loss: 0.4645461
+2025-04-11 02:32:19,638 - INFO - Epoch: 46/1000 Client: 1 training loss: 0.2225480
+2025-04-11 02:33:13,232 - INFO - Epoch: 46/1000 Client: 2 training loss: 0.2230173
+2025-04-11 02:34:06,860 - INFO - Epoch: 46/1000 Client: 3 training loss: 0.2231731
+2025-04-11 02:35:00,509 - INFO - Epoch: 46/1000 Client: 4 training loss: 0.2230720
+2025-04-11 02:35:54,169 - INFO - Epoch: 46/1000 Client: 5 training loss: 0.2225927
+2025-04-11 02:36:05,535 - INFO - validate loss: 0.4514960
+2025-04-11 02:36:06,089 - INFO - Best global model saved with validation loss: 0.4514960
+2025-04-11 02:36:59,545 - INFO - Epoch: 47/1000 Client: 1 training loss: 0.2208750
+2025-04-11 02:37:53,185 - INFO - Epoch: 47/1000 Client: 2 training loss: 0.2211693
+2025-04-11 02:38:46,862 - INFO - Epoch: 47/1000 Client: 3 training loss: 0.2213712
+2025-04-11 02:39:40,540 - INFO - Epoch: 47/1000 Client: 4 training loss: 0.2217507
+2025-04-11 02:40:34,213 - INFO - Epoch: 47/1000 Client: 5 training loss: 0.2207884
+2025-04-11 02:40:45,567 - INFO - validate loss: 0.4406030
+2025-04-11 02:40:46,128 - INFO - Best global model saved with validation loss: 0.4406030
+2025-04-11 02:41:39,588 - INFO - Epoch: 48/1000 Client: 1 training loss: 0.2180959
+2025-04-11 02:42:33,282 - INFO - Epoch: 48/1000 Client: 2 training loss: 0.2177511
+2025-04-11 02:43:26,909 - INFO - Epoch: 48/1000 Client: 3 training loss: 0.2188232
+2025-04-11 02:44:20,505 - INFO - Epoch: 48/1000 Client: 4 training loss: 0.2192320
+2025-04-11 02:45:14,120 - INFO - Epoch: 48/1000 Client: 5 training loss: 0.2187566
+2025-04-11 02:45:25,504 - INFO - validate loss: 0.4269428
+2025-04-11 02:45:26,066 - INFO - Best global model saved with validation loss: 0.4269428
+2025-04-11 02:46:18,073 - INFO - Epoch: 49/1000 Client: 1 training loss: 0.2164886
+2025-04-11 02:47:11,749 - INFO - Epoch: 49/1000 Client: 2 training loss: 0.2166717
+2025-04-11 02:48:05,413 - INFO - Epoch: 49/1000 Client: 3 training loss: 0.2171033
+2025-04-11 02:48:59,016 - INFO - Epoch: 49/1000 Client: 4 training loss: 0.2171349
+2025-04-11 02:49:52,609 - INFO - Epoch: 49/1000 Client: 5 training loss: 0.2163292
+2025-04-11 02:50:03,974 - INFO - validate loss: 0.4109217
+2025-04-11 02:50:04,522 - INFO - Best global model saved with validation loss: 0.4109217
+2025-04-11 02:50:57,878 - INFO - Epoch: 50/1000 Client: 1 training loss: 0.2120543
+2025-04-11 02:51:51,468 - INFO - Epoch: 50/1000 Client: 2 training loss: 0.2122626
+2025-04-11 02:52:45,064 - INFO - Epoch: 50/1000 Client: 3 training loss: 0.2130522
+2025-04-11 02:53:38,654 - INFO - Epoch: 50/1000 Client: 4 training loss: 0.2134260
+2025-04-11 02:54:32,284 - INFO - Epoch: 50/1000 Client: 5 training loss: 0.2129602
+2025-04-11 02:54:43,623 - INFO - validate loss: 0.3943252
+2025-04-11 02:54:44,194 - INFO - Best global model saved with validation loss: 0.3943252
+2025-04-11 02:55:37,628 - INFO - Epoch: 51/1000 Client: 1 training loss: 0.2098264
+2025-04-11 02:56:31,272 - INFO - Epoch: 51/1000 Client: 2 training loss: 0.2108282
+2025-04-11 02:57:24,933 - INFO - Epoch: 51/1000 Client: 3 training loss: 0.2111575
+2025-04-11 02:58:18,597 - INFO - Epoch: 51/1000 Client: 4 training loss: 0.2109281
+2025-04-11 02:59:12,310 - INFO - Epoch: 51/1000 Client: 5 training loss: 0.2101943
+2025-04-11 02:59:23,702 - INFO - validate loss: 0.3789335
+2025-04-11 02:59:24,259 - INFO - Best global model saved with validation loss: 0.3789335
+2025-04-11 03:00:17,760 - INFO - Epoch: 52/1000 Client: 1 training loss: 0.2059881
+2025-04-11 03:01:11,465 - INFO - Epoch: 52/1000 Client: 2 training loss: 0.2063966
+2025-04-11 03:02:05,180 - INFO - Epoch: 52/1000 Client: 3 training loss: 0.2075697
+2025-04-11 03:02:58,838 - INFO - Epoch: 52/1000 Client: 4 training loss: 0.2087229
+2025-04-11 03:03:52,477 - INFO - Epoch: 52/1000 Client: 5 training loss: 0.2076979
+2025-04-11 03:04:03,832 - INFO - validate loss: 0.3626631
+2025-04-11 03:04:04,378 - INFO - Best global model saved with validation loss: 0.3626631
+2025-04-11 03:04:57,793 - INFO - Epoch: 53/1000 Client: 1 training loss: 0.2055112
+2025-04-11 03:05:51,397 - INFO - Epoch: 53/1000 Client: 2 training loss: 0.2068440
+2025-04-11 03:06:44,967 - INFO - Epoch: 53/1000 Client: 3 training loss: 0.2075120
+2025-04-11 03:07:38,530 - INFO - Epoch: 53/1000 Client: 4 training loss: 0.2075994
+2025-04-11 03:08:32,106 - INFO - Epoch: 53/1000 Client: 5 training loss: 0.2067521
+2025-04-11 03:08:43,481 - INFO - validate loss: 0.3456674
+2025-04-11 03:08:44,025 - INFO - Best global model saved with validation loss: 0.3456674
+2025-04-11 03:09:37,374 - INFO - Epoch: 54/1000 Client: 1 training loss: 0.2026050
+2025-04-11 03:10:30,968 - INFO - Epoch: 54/1000 Client: 2 training loss: 0.2029850
+2025-04-11 03:11:24,544 - INFO - Epoch: 54/1000 Client: 3 training loss: 0.2034895
+2025-04-11 03:12:18,163 - INFO - Epoch: 54/1000 Client: 4 training loss: 0.2042564
+2025-04-11 03:13:11,786 - INFO - Epoch: 54/1000 Client: 5 training loss: 0.2042377
+2025-04-11 03:13:23,140 - INFO - validate loss: 0.3288509
+2025-04-11 03:13:23,686 - INFO - Best global model saved with validation loss: 0.3288509
+2025-04-11 03:14:17,147 - INFO - Epoch: 55/1000 Client: 1 training loss: 0.2020876
+2025-04-11 03:15:10,778 - INFO - Epoch: 55/1000 Client: 2 training loss: 0.2023671
+2025-04-11 03:16:04,467 - INFO - Epoch: 55/1000 Client: 3 training loss: 0.2028672
+2025-04-11 03:16:58,134 - INFO - Epoch: 55/1000 Client: 4 training loss: 0.2026506
+2025-04-11 03:17:51,825 - INFO - Epoch: 55/1000 Client: 5 training loss: 0.2019378
+2025-04-11 03:18:03,219 - INFO - validate loss: 0.3152140
+2025-04-11 03:18:03,780 - INFO - Best global model saved with validation loss: 0.3152140
+2025-04-11 03:18:56,234 - INFO - Epoch: 56/1000 Client: 1 training loss: 0.1979126
+2025-04-11 03:19:49,931 - INFO - Epoch: 56/1000 Client: 2 training loss: 0.1980438
+2025-04-11 03:20:43,621 - INFO - Epoch: 56/1000 Client: 3 training loss: 0.1988369
+2025-04-11 03:21:37,229 - INFO - Epoch: 56/1000 Client: 4 training loss: 0.1991875
+2025-04-11 03:22:30,793 - INFO - Epoch: 56/1000 Client: 5 training loss: 0.1987105
+2025-04-11 03:22:42,137 - INFO - validate loss: 0.3023794
+2025-04-11 03:22:42,686 - INFO - Best global model saved with validation loss: 0.3023794
+2025-04-11 03:23:35,953 - INFO - Epoch: 57/1000 Client: 1 training loss: 0.1967594
+2025-04-11 03:24:28,177 - INFO - Epoch: 57/1000 Client: 2 training loss: 0.1978697
+2025-04-11 03:25:21,768 - INFO - Epoch: 57/1000 Client: 3 training loss: 0.1978691
+2025-04-11 03:26:15,359 - INFO - Epoch: 57/1000 Client: 4 training loss: 0.1980793
+2025-04-11 03:27:08,940 - INFO - Epoch: 57/1000 Client: 5 training loss: 0.1975505
+2025-04-11 03:27:20,271 - INFO - validate loss: 0.2902329
+2025-04-11 03:27:20,819 - INFO - Best global model saved with validation loss: 0.2902329
+2025-04-11 03:28:14,203 - INFO - Epoch: 58/1000 Client: 1 training loss: 0.1945703
+2025-04-11 03:29:07,725 - INFO - Epoch: 58/1000 Client: 2 training loss: 0.1950650
+2025-04-11 03:30:01,272 - INFO - Epoch: 58/1000 Client: 3 training loss: 0.1956912
+2025-04-11 03:30:54,809 - INFO - Epoch: 58/1000 Client: 4 training loss: 0.1957564
+2025-04-11 03:31:48,356 - INFO - Epoch: 58/1000 Client: 5 training loss: 0.1955583
+2025-04-11 03:31:59,804 - INFO - validate loss: 0.2800403
+2025-04-11 03:32:00,356 - INFO - Best global model saved with validation loss: 0.2800403
+2025-04-11 03:32:53,712 - INFO - Epoch: 59/1000 Client: 1 training loss: 0.1928376
+2025-04-11 03:33:47,311 - INFO - Epoch: 59/1000 Client: 2 training loss: 0.1931793
+2025-04-11 03:34:40,884 - INFO - Epoch: 59/1000 Client: 3 training loss: 0.1937915
+2025-04-11 03:35:34,505 - INFO - Epoch: 59/1000 Client: 4 training loss: 0.1939002
+2025-04-11 03:36:28,119 - INFO - Epoch: 59/1000 Client: 5 training loss: 0.1932813
+2025-04-11 03:36:39,492 - INFO - validate loss: 0.2731546
+2025-04-11 03:36:40,047 - INFO - Best global model saved with validation loss: 0.2731546
+2025-04-11 03:37:33,471 - INFO - Epoch: 60/1000 Client: 1 training loss: 0.1921896
+2025-04-11 03:38:27,108 - INFO - Epoch: 60/1000 Client: 2 training loss: 0.1919491
+2025-04-11 03:39:20,763 - INFO - Epoch: 60/1000 Client: 3 training loss: 0.1922735
+2025-04-11 03:40:14,410 - INFO - Epoch: 60/1000 Client: 4 training loss: 0.1923996
+2025-04-11 03:41:08,088 - INFO - Epoch: 60/1000 Client: 5 training loss: 0.1919178
+2025-04-11 03:41:19,512 - INFO - validate loss: 0.2662355
+2025-04-11 03:41:20,073 - INFO - Best global model saved with validation loss: 0.2662355
+2025-04-11 03:42:13,521 - INFO - Epoch: 61/1000 Client: 1 training loss: 0.1880622
+2025-04-11 03:43:07,202 - INFO - Epoch: 61/1000 Client: 2 training loss: 0.1890758
+2025-04-11 03:44:00,904 - INFO - Epoch: 61/1000 Client: 3 training loss: 0.1898550
+2025-04-11 03:44:54,609 - INFO - Epoch: 61/1000 Client: 4 training loss: 0.1900282
+2025-04-11 03:45:48,292 - INFO - Epoch: 61/1000 Client: 5 training loss: 0.1895652
+2025-04-11 03:45:59,716 - INFO - validate loss: 0.2593919
+2025-04-11 03:46:00,278 - INFO - Best global model saved with validation loss: 0.2593919
+2025-04-11 03:46:53,713 - INFO - Epoch: 62/1000 Client: 1 training loss: 0.1885473
+2025-04-11 03:47:47,355 - INFO - Epoch: 62/1000 Client: 2 training loss: 0.1885316
+2025-04-11 03:48:40,972 - INFO - Epoch: 62/1000 Client: 3 training loss: 0.1893381
+2025-04-11 03:49:34,561 - INFO - Epoch: 62/1000 Client: 4 training loss: 0.1893030
+2025-04-11 03:50:28,168 - INFO - Epoch: 62/1000 Client: 5 training loss: 0.1888430
+2025-04-11 03:50:39,553 - INFO - validate loss: 0.2546861
+2025-04-11 03:50:40,098 - INFO - Best global model saved with validation loss: 0.2546861
+2025-04-11 03:51:33,471 - INFO - Epoch: 63/1000 Client: 1 training loss: 0.1868664
+2025-04-11 03:52:27,029 - INFO - Epoch: 63/1000 Client: 2 training loss: 0.1870381
+2025-04-11 03:53:20,582 - INFO - Epoch: 63/1000 Client: 3 training loss: 0.1877430
+2025-04-11 03:54:14,120 - INFO - Epoch: 63/1000 Client: 4 training loss: 0.1877636
+2025-04-11 03:55:07,708 - INFO - Epoch: 63/1000 Client: 5 training loss: 0.1872194
+2025-04-11 03:55:19,052 - INFO - validate loss: 0.2510332
+2025-04-11 03:55:19,607 - INFO - Best global model saved with validation loss: 0.2510332
+2025-04-11 03:56:12,956 - INFO - Epoch: 64/1000 Client: 1 training loss: 0.1852005
+2025-04-11 03:57:06,546 - INFO - Epoch: 64/1000 Client: 2 training loss: 0.1857677
+2025-04-11 03:58:00,196 - INFO - Epoch: 64/1000 Client: 3 training loss: 0.1860858
+2025-04-11 03:58:53,846 - INFO - Epoch: 64/1000 Client: 4 training loss: 0.1865214
+2025-04-11 03:59:47,415 - INFO - Epoch: 64/1000 Client: 5 training loss: 0.1860340
+2025-04-11 03:59:58,817 - INFO - validate loss: 0.2487151
+2025-04-11 03:59:59,368 - INFO - Best global model saved with validation loss: 0.2487151
+2025-04-11 04:00:52,679 - INFO - Epoch: 65/1000 Client: 1 training loss: 0.1835615
+2025-04-11 04:01:46,199 - INFO - Epoch: 65/1000 Client: 2 training loss: 0.1842433
+2025-04-11 04:02:38,406 - INFO - Epoch: 65/1000 Client: 3 training loss: 0.1846189
+2025-04-11 04:03:32,128 - INFO - Epoch: 65/1000 Client: 4 training loss: 0.1847524
+2025-04-11 04:04:25,817 - INFO - Epoch: 65/1000 Client: 5 training loss: 0.1845650
+2025-04-11 04:04:37,200 - INFO - validate loss: 0.2485787
+2025-04-11 04:04:37,722 - INFO - Best global model saved with validation loss: 0.2485787
+2025-04-11 04:05:31,200 - INFO - Epoch: 66/1000 Client: 1 training loss: 0.1831580
+2025-04-11 04:06:24,909 - INFO - Epoch: 66/1000 Client: 2 training loss: 0.1841185
+2025-04-11 04:07:18,597 - INFO - Epoch: 66/1000 Client: 3 training loss: 0.1841711
+2025-04-11 04:08:12,285 - INFO - Epoch: 66/1000 Client: 4 training loss: 0.1845548
+2025-04-11 04:09:05,930 - INFO - Epoch: 66/1000 Client: 5 training loss: 0.1841489
+2025-04-11 04:09:17,241 - INFO - validate loss: 0.2482880
+2025-04-11 04:09:17,789 - INFO - Best global model saved with validation loss: 0.2482880
+2025-04-11 04:10:11,191 - INFO - Epoch: 67/1000 Client: 1 training loss: 0.1825136
+2025-04-11 04:11:04,728 - INFO - Epoch: 67/1000 Client: 2 training loss: 0.1828423
+2025-04-11 04:11:58,286 - INFO - Epoch: 67/1000 Client: 3 training loss: 0.1833448
+2025-04-11 04:12:51,846 - INFO - Epoch: 67/1000 Client: 4 training loss: 0.1837792
+2025-04-11 04:13:45,397 - INFO - Epoch: 67/1000 Client: 5 training loss: 0.1832598
+2025-04-11 04:13:56,706 - INFO - validate loss: 0.2479827
+2025-04-11 04:13:57,256 - INFO - Best global model saved with validation loss: 0.2479827
+2025-04-11 04:14:50,597 - INFO - Epoch: 68/1000 Client: 1 training loss: 0.1815930
+2025-04-11 04:15:44,143 - INFO - Epoch: 68/1000 Client: 2 training loss: 0.1823542
+2025-04-11 04:16:37,720 - INFO - Epoch: 68/1000 Client: 3 training loss: 0.1827122
+2025-04-11 04:17:30,304 - INFO - Epoch: 68/1000 Client: 4 training loss: 0.1827247
+2025-04-11 04:18:23,926 - INFO - Epoch: 68/1000 Client: 5 training loss: 0.1823926
+2025-04-11 04:18:35,268 - INFO - validate loss: 0.2472701
+2025-04-11 04:18:35,826 - INFO - Best global model saved with validation loss: 0.2472701
+2025-04-11 04:19:29,250 - INFO - Epoch: 69/1000 Client: 1 training loss: 0.1810484
+2025-04-11 04:20:22,831 - INFO - Epoch: 69/1000 Client: 2 training loss: 0.1816624
+2025-04-11 04:21:16,406 - INFO - Epoch: 69/1000 Client: 3 training loss: 0.1819232
+2025-04-11 04:22:10,101 - INFO - Epoch: 69/1000 Client: 4 training loss: 0.1823360
+2025-04-11 04:23:03,738 - INFO - Epoch: 69/1000 Client: 5 training loss: 0.1818064
+2025-04-11 04:23:15,104 - INFO - validate loss: 0.2477074
+2025-04-11 04:24:08,565 - INFO - Epoch: 70/1000 Client: 1 training loss: 0.1790795
+2025-04-11 04:25:02,216 - INFO - Epoch: 70/1000 Client: 2 training loss: 0.1800365
+2025-04-11 04:25:55,895 - INFO - Epoch: 70/1000 Client: 3 training loss: 0.1809871
+2025-04-11 04:26:49,580 - INFO - Epoch: 70/1000 Client: 4 training loss: 0.1811565
+2025-04-11 04:27:43,282 - INFO - Epoch: 70/1000 Client: 5 training loss: 0.1806902
+2025-04-11 04:27:54,643 - INFO - validate loss: 0.2487426
+2025-04-11 04:28:48,096 - INFO - Epoch: 71/1000 Client: 1 training loss: 0.1788804
+2025-04-11 04:29:41,717 - INFO - Epoch: 71/1000 Client: 2 training loss: 0.1797612
+2025-04-11 04:30:35,322 - INFO - Epoch: 71/1000 Client: 3 training loss: 0.1802285
+2025-04-11 04:31:28,917 - INFO - Epoch: 71/1000 Client: 4 training loss: 0.1806675
+2025-04-11 04:32:22,471 - INFO - Epoch: 71/1000 Client: 5 training loss: 0.1801977
+2025-04-11 04:32:33,793 - INFO - validate loss: 0.2509066
+2025-04-11 04:33:27,167 - INFO - Epoch: 72/1000 Client: 1 training loss: 0.1818561
+2025-04-11 04:34:20,730 - INFO - Epoch: 72/1000 Client: 2 training loss: 0.1813898
+2025-04-11 04:35:14,312 - INFO - Epoch: 72/1000 Client: 3 training loss: 0.1811843
+2025-04-11 04:36:07,913 - INFO - Epoch: 72/1000 Client: 4 training loss: 0.1810647
+2025-04-11 04:37:01,526 - INFO - Epoch: 72/1000 Client: 5 training loss: 0.1805232
+2025-04-11 04:37:12,908 - INFO - validate loss: 0.2520043
+2025-04-11 04:38:06,250 - INFO - Epoch: 73/1000 Client: 1 training loss: 0.1781253
+2025-04-11 04:38:59,778 - INFO - Epoch: 73/1000 Client: 2 training loss: 0.1789263
+2025-04-11 04:39:53,349 - INFO - Epoch: 73/1000 Client: 3 training loss: 0.1789013
+2025-04-11 04:40:45,611 - INFO - Epoch: 73/1000 Client: 4 training loss: 0.1789978
+2025-04-11 04:41:39,268 - INFO - Epoch: 73/1000 Client: 5 training loss: 0.1785968
+2025-04-11 04:41:50,591 - INFO - validate loss: 0.2554724
+2025-04-11 04:42:44,076 - INFO - Epoch: 74/1000 Client: 1 training loss: 0.1765755
+2025-04-11 04:43:37,709 - INFO - Epoch: 74/1000 Client: 2 training loss: 0.1779003
+2025-04-11 04:44:31,383 - INFO - Epoch: 74/1000 Client: 3 training loss: 0.1782282
+2025-04-11 04:45:25,049 - INFO - Epoch: 74/1000 Client: 4 training loss: 0.1782841
+2025-04-11 04:46:18,702 - INFO - Epoch: 74/1000 Client: 5 training loss: 0.1778890
+2025-04-11 04:46:30,089 - INFO - validate loss: 0.2583512
+2025-04-11 04:47:23,533 - INFO - Epoch: 75/1000 Client: 1 training loss: 0.1771434
+2025-04-11 04:48:17,130 - INFO - Epoch: 75/1000 Client: 2 training loss: 0.1776690
+2025-04-11 04:49:10,707 - INFO - Epoch: 75/1000 Client: 3 training loss: 0.1781551
+2025-04-11 04:50:04,246 - INFO - Epoch: 75/1000 Client: 4 training loss: 0.1783757
+2025-04-11 04:50:57,824 - INFO - Epoch: 75/1000 Client: 5 training loss: 0.1778898
+2025-04-11 04:51:09,206 - INFO - validate loss: 0.2578379
+2025-04-11 04:52:02,567 - INFO - Epoch: 76/1000 Client: 1 training loss: 0.1769026
+2025-04-11 04:52:56,138 - INFO - Epoch: 76/1000 Client: 2 training loss: 0.1774477
+2025-04-11 04:53:49,731 - INFO - Epoch: 76/1000 Client: 3 training loss: 0.1782008
+2025-04-11 04:54:43,366 - INFO - Epoch: 76/1000 Client: 4 training loss: 0.1780080
+2025-04-11 04:55:36,986 - INFO - Epoch: 76/1000 Client: 5 training loss: 0.1777934
+2025-04-11 04:55:48,338 - INFO - validate loss: 0.2578582
+2025-04-11 04:56:41,738 - INFO - Epoch: 77/1000 Client: 1 training loss: 0.1769152
+2025-04-11 04:57:35,403 - INFO - Epoch: 77/1000 Client: 2 training loss: 0.1768826
+2025-04-11 04:58:29,100 - INFO - Epoch: 77/1000 Client: 3 training loss: 0.1768044
+2025-04-11 04:59:22,751 - INFO - Epoch: 77/1000 Client: 4 training loss: 0.1767359
+2025-04-11 05:00:16,420 - INFO - Epoch: 77/1000 Client: 5 training loss: 0.1765882
+2025-04-11 05:00:27,809 - INFO - validate loss: 0.2569331
+2025-04-11 05:01:21,274 - INFO - Epoch: 78/1000 Client: 1 training loss: 0.1756610
+2025-04-11 05:02:14,960 - INFO - Epoch: 78/1000 Client: 2 training loss: 0.1764434
+2025-04-11 05:03:08,650 - INFO - Epoch: 78/1000 Client: 3 training loss: 0.1766617
+2025-04-11 05:04:02,285 - INFO - Epoch: 78/1000 Client: 4 training loss: 0.1767723
+2025-04-11 05:04:55,936 - INFO - Epoch: 78/1000 Client: 5 training loss: 0.1762013
+2025-04-11 05:05:07,274 - INFO - validate loss: 0.2549711
+2025-04-11 05:06:00,665 - INFO - Epoch: 79/1000 Client: 1 training loss: 0.1741268
+2025-04-11 05:06:54,208 - INFO - Epoch: 79/1000 Client: 2 training loss: 0.1756467
+2025-04-11 05:07:47,737 - INFO - Epoch: 79/1000 Client: 3 training loss: 0.1759603
+2025-04-11 05:08:41,275 - INFO - Epoch: 79/1000 Client: 4 training loss: 0.1759640
+2025-04-11 05:09:34,819 - INFO - Epoch: 79/1000 Client: 5 training loss: 0.1754482
+2025-04-11 05:09:46,145 - INFO - validate loss: 0.2532678
+2025-04-11 05:10:39,521 - INFO - Epoch: 80/1000 Client: 1 training loss: 0.1750861
+2025-04-11 05:11:33,112 - INFO - Epoch: 80/1000 Client: 2 training loss: 0.1749740
+2025-04-11 05:12:25,674 - INFO - Epoch: 80/1000 Client: 3 training loss: 0.1748796
+2025-04-11 05:13:19,273 - INFO - Epoch: 80/1000 Client: 4 training loss: 0.1749873
+2025-04-11 05:14:12,901 - INFO - Epoch: 80/1000 Client: 5 training loss: 0.1744592
+2025-04-11 05:14:24,347 - INFO - validate loss: 0.2505599
+2025-04-11 05:15:17,788 - INFO - Epoch: 81/1000 Client: 1 training loss: 0.1726695
+2025-04-11 05:16:11,328 - INFO - Epoch: 81/1000 Client: 2 training loss: 0.1730946
+2025-04-11 05:17:04,829 - INFO - Epoch: 81/1000 Client: 3 training loss: 0.1735749
+2025-04-11 05:17:58,335 - INFO - Epoch: 81/1000 Client: 4 training loss: 0.1737802
+2025-04-11 05:18:50,518 - INFO - Epoch: 81/1000 Client: 5 training loss: 0.1733802
+2025-04-11 05:19:01,888 - INFO - validate loss: 0.2467237
+2025-04-11 05:19:02,442 - INFO - Best global model saved with validation loss: 0.2467237
+2025-04-11 05:19:55,934 - INFO - Epoch: 82/1000 Client: 1 training loss: 0.1711668
+2025-04-11 05:20:49,601 - INFO - Epoch: 82/1000 Client: 2 training loss: 0.1727301
+2025-04-11 05:21:43,307 - INFO - Epoch: 82/1000 Client: 3 training loss: 0.1731336
+2025-04-11 05:22:36,993 - INFO - Epoch: 82/1000 Client: 4 training loss: 0.1730445
+2025-04-11 05:23:30,700 - INFO - Epoch: 82/1000 Client: 5 training loss: 0.1727989
+2025-04-11 05:23:42,094 - INFO - validate loss: 0.2443023
+2025-04-11 05:23:42,640 - INFO - Best global model saved with validation loss: 0.2443023
+2025-04-11 05:24:36,064 - INFO - Epoch: 83/1000 Client: 1 training loss: 0.1721024
+2025-04-11 05:25:29,676 - INFO - Epoch: 83/1000 Client: 2 training loss: 0.1728770
+2025-04-11 05:26:23,227 - INFO - Epoch: 83/1000 Client: 3 training loss: 0.1725484
+2025-04-11 05:27:16,773 - INFO - Epoch: 83/1000 Client: 4 training loss: 0.1726751
+2025-04-11 05:28:10,302 - INFO - Epoch: 83/1000 Client: 5 training loss: 0.1720795
+2025-04-11 05:28:21,769 - INFO - validate loss: 0.2400544
+2025-04-11 05:28:22,317 - INFO - Best global model saved with validation loss: 0.2400544
+2025-04-11 05:29:15,654 - INFO - Epoch: 84/1000 Client: 1 training loss: 0.1711525
+2025-04-11 05:30:09,225 - INFO - Epoch: 84/1000 Client: 2 training loss: 0.1718314
+2025-04-11 05:31:02,808 - INFO - Epoch: 84/1000 Client: 3 training loss: 0.1715899
+2025-04-11 05:31:56,390 - INFO - Epoch: 84/1000 Client: 4 training loss: 0.1721823
+2025-04-11 05:32:49,986 - INFO - Epoch: 84/1000 Client: 5 training loss: 0.1716142
+2025-04-11 05:33:01,301 - INFO - validate loss: 0.2346524
+2025-04-11 05:33:01,861 - INFO - Best global model saved with validation loss: 0.2346524
+2025-04-11 05:33:55,305 - INFO - Epoch: 85/1000 Client: 1 training loss: 0.1703244
+2025-04-11 05:34:48,925 - INFO - Epoch: 85/1000 Client: 2 training loss: 0.1713505
+2025-04-11 05:35:42,569 - INFO - Epoch: 85/1000 Client: 3 training loss: 0.1713851
+2025-04-11 05:36:36,229 - INFO - Epoch: 85/1000 Client: 4 training loss: 0.1712994
+2025-04-11 05:37:29,893 - INFO - Epoch: 85/1000 Client: 5 training loss: 0.1710152
+2025-04-11 05:37:41,301 - INFO - validate loss: 0.2309699
+2025-04-11 05:37:41,875 - INFO - Best global model saved with validation loss: 0.2309699
+2025-04-11 05:38:35,325 - INFO - Epoch: 86/1000 Client: 1 training loss: 0.1683508
+2025-04-11 05:39:28,985 - INFO - Epoch: 86/1000 Client: 2 training loss: 0.1693515
+2025-04-11 05:40:22,610 - INFO - Epoch: 86/1000 Client: 3 training loss: 0.1697902
+2025-04-11 05:41:16,238 - INFO - Epoch: 86/1000 Client: 4 training loss: 0.1700900
+2025-04-11 05:42:09,896 - INFO - Epoch: 86/1000 Client: 5 training loss: 0.1696720
+2025-04-11 05:42:21,423 - INFO - validate loss: 0.2279515
+2025-04-11 05:42:21,978 - INFO - Best global model saved with validation loss: 0.2279515
+2025-04-11 05:43:15,466 - INFO - Epoch: 87/1000 Client: 1 training loss: 0.1691113
+2025-04-11 05:44:09,132 - INFO - Epoch: 87/1000 Client: 2 training loss: 0.1694140
+2025-04-11 05:45:02,817 - INFO - Epoch: 87/1000 Client: 3 training loss: 0.1699368
+2025-04-11 05:45:56,509 - INFO - Epoch: 87/1000 Client: 4 training loss: 0.1696139
+2025-04-11 05:46:50,211 - INFO - Epoch: 87/1000 Client: 5 training loss: 0.1690189
+2025-04-11 05:47:01,627 - INFO - validate loss: 0.2242585
+2025-04-11 05:47:02,182 - INFO - Best global model saved with validation loss: 0.2242585
+2025-04-11 05:47:55,635 - INFO - Epoch: 88/1000 Client: 1 training loss: 0.1682280
+2025-04-11 05:48:49,254 - INFO - Epoch: 88/1000 Client: 2 training loss: 0.1683298
+2025-04-11 05:49:42,850 - INFO - Epoch: 88/1000 Client: 3 training loss: 0.1684473
+2025-04-11 05:50:36,443 - INFO - Epoch: 88/1000 Client: 4 training loss: 0.1686454
+2025-04-11 05:51:29,998 - INFO - Epoch: 88/1000 Client: 5 training loss: 0.1683564
+2025-04-11 05:51:41,370 - INFO - validate loss: 0.2216329
+2025-04-11 05:51:41,919 - INFO - Best global model saved with validation loss: 0.2216329
+2025-04-11 05:52:35,277 - INFO - Epoch: 89/1000 Client: 1 training loss: 0.1685869
+2025-04-11 05:53:28,786 - INFO - Epoch: 89/1000 Client: 2 training loss: 0.1680857
+2025-04-11 05:54:22,255 - INFO - Epoch: 89/1000 Client: 3 training loss: 0.1678403
+2025-04-11 05:55:15,664 - INFO - Epoch: 89/1000 Client: 4 training loss: 0.1680378
+2025-04-11 05:56:09,137 - INFO - Epoch: 89/1000 Client: 5 training loss: 0.1676739
+2025-04-11 05:56:20,541 - INFO - validate loss: 0.2202499
+2025-04-11 05:56:21,098 - INFO - Best global model saved with validation loss: 0.2202499
+2025-04-11 05:57:14,359 - INFO - Epoch: 90/1000 Client: 1 training loss: 0.1661696
+2025-04-11 05:58:07,932 - INFO - Epoch: 90/1000 Client: 2 training loss: 0.1668477
+2025-04-11 05:59:01,574 - INFO - Epoch: 90/1000 Client: 3 training loss: 0.1669165
+2025-04-11 05:59:55,193 - INFO - Epoch: 90/1000 Client: 4 training loss: 0.1671179
+2025-04-11 06:00:48,812 - INFO - Epoch: 90/1000 Client: 5 training loss: 0.1667552
+2025-04-11 06:01:00,194 - INFO - validate loss: 0.2171107
+2025-04-11 06:01:00,881 - INFO - Best global model saved with validation loss: 0.2171107
+2025-04-11 06:01:54,263 - INFO - Epoch: 91/1000 Client: 1 training loss: 0.1665605
+2025-04-11 06:02:47,877 - INFO - Epoch: 91/1000 Client: 2 training loss: 0.1668612
+2025-04-11 06:03:41,490 - INFO - Epoch: 91/1000 Client: 3 training loss: 0.1671076
+2025-04-11 06:04:35,123 - INFO - Epoch: 91/1000 Client: 4 training loss: 0.1671926
+2025-04-11 06:05:28,735 - INFO - Epoch: 91/1000 Client: 5 training loss: 0.1668056
+2025-04-11 06:05:40,067 - INFO - validate loss: 0.2135239
+2025-04-11 06:05:40,615 - INFO - Best global model saved with validation loss: 0.2135239
+2025-04-11 06:06:34,064 - INFO - Epoch: 92/1000 Client: 1 training loss: 0.1653421
+2025-04-11 06:07:27,722 - INFO - Epoch: 92/1000 Client: 2 training loss: 0.1656117
+2025-04-11 06:08:21,404 - INFO - Epoch: 92/1000 Client: 3 training loss: 0.1658474
+2025-04-11 06:09:15,084 - INFO - Epoch: 92/1000 Client: 4 training loss: 0.1660321
+2025-04-11 06:10:08,774 - INFO - Epoch: 92/1000 Client: 5 training loss: 0.1656289
+2025-04-11 06:10:20,124 - INFO - validate loss: 0.2115349
+2025-04-11 06:10:20,676 - INFO - Best global model saved with validation loss: 0.2115349
+2025-04-11 06:11:13,102 - INFO - Epoch: 93/1000 Client: 1 training loss: 0.1649498
+2025-04-11 06:12:06,747 - INFO - Epoch: 93/1000 Client: 2 training loss: 0.1655224
+2025-04-11 06:13:00,444 - INFO - Epoch: 93/1000 Client: 3 training loss: 0.1653593
+2025-04-11 06:13:54,130 - INFO - Epoch: 93/1000 Client: 4 training loss: 0.1654191
+2025-04-11 06:14:47,834 - INFO - Epoch: 93/1000 Client: 5 training loss: 0.1651560
+2025-04-11 06:14:59,202 - INFO - validate loss: 0.2105650
+2025-04-11 06:14:59,764 - INFO - Best global model saved with validation loss: 0.2105650
+2025-04-11 06:15:53,215 - INFO - Epoch: 94/1000 Client: 1 training loss: 0.1645408
+2025-04-11 06:16:46,808 - INFO - Epoch: 94/1000 Client: 2 training loss: 0.1648355
+2025-04-11 06:17:40,392 - INFO - Epoch: 94/1000 Client: 3 training loss: 0.1647203
+2025-04-11 06:18:33,949 - INFO - Epoch: 94/1000 Client: 4 training loss: 0.1650242
+2025-04-11 06:19:27,491 - INFO - Epoch: 94/1000 Client: 5 training loss: 0.1646213
+2025-04-11 06:19:39,009 - INFO - validate loss: 0.2088595
+2025-04-11 06:19:39,571 - INFO - Best global model saved with validation loss: 0.2088595
+2025-04-11 06:20:32,908 - INFO - Epoch: 95/1000 Client: 1 training loss: 0.1635779
+2025-04-11 06:21:26,429 - INFO - Epoch: 95/1000 Client: 2 training loss: 0.1648153
+2025-04-11 06:22:19,979 - INFO - Epoch: 95/1000 Client: 3 training loss: 0.1650178
+2025-04-11 06:23:13,541 - INFO - Epoch: 95/1000 Client: 4 training loss: 0.1650575
+2025-04-11 06:24:07,108 - INFO - Epoch: 95/1000 Client: 5 training loss: 0.1644284
+2025-04-11 06:24:18,425 - INFO - validate loss: 0.2070797
+2025-04-11 06:24:18,971 - INFO - Best global model saved with validation loss: 0.2070797
+2025-04-11 06:25:12,372 - INFO - Epoch: 96/1000 Client: 1 training loss: 0.1635078
+2025-04-11 06:26:05,988 - INFO - Epoch: 96/1000 Client: 2 training loss: 0.1635699
+2025-04-11 06:26:59,617 - INFO - Epoch: 96/1000 Client: 3 training loss: 0.1642149
+2025-04-11 06:27:53,243 - INFO - Epoch: 96/1000 Client: 4 training loss: 0.1644293
+2025-04-11 06:28:46,869 - INFO - Epoch: 96/1000 Client: 5 training loss: 0.1639589
+2025-04-11 06:28:58,228 - INFO - validate loss: 0.2074488
+2025-04-11 06:29:51,651 - INFO - Epoch: 97/1000 Client: 1 training loss: 0.1633951
+2025-04-11 06:30:45,300 - INFO - Epoch: 97/1000 Client: 2 training loss: 0.1635190
+2025-04-11 06:31:38,947 - INFO - Epoch: 97/1000 Client: 3 training loss: 0.1636149
+2025-04-11 06:32:32,488 - INFO - Epoch: 97/1000 Client: 4 training loss: 0.1637180
+2025-04-11 06:33:26,022 - INFO - Epoch: 97/1000 Client: 5 training loss: 0.1632001
+2025-04-11 06:33:37,346 - INFO - validate loss: 0.2055506
+2025-04-11 06:33:37,899 - INFO - Best global model saved with validation loss: 0.2055506
+2025-04-11 06:34:31,235 - INFO - Epoch: 98/1000 Client: 1 training loss: 0.1615979
+2025-04-11 06:35:23,423 - INFO - Epoch: 98/1000 Client: 2 training loss: 0.1625655
+2025-04-11 06:36:17,097 - INFO - Epoch: 98/1000 Client: 3 training loss: 0.1629031
+2025-04-11 06:37:10,763 - INFO - Epoch: 98/1000 Client: 4 training loss: 0.1632111
+2025-04-11 06:38:04,414 - INFO - Epoch: 98/1000 Client: 5 training loss: 0.1625969
+2025-04-11 06:38:15,942 - INFO - validate loss: 0.2059761
+2025-04-11 06:39:09,458 - INFO - Epoch: 99/1000 Client: 1 training loss: 0.1624399
+2025-04-11 06:40:03,118 - INFO - Epoch: 99/1000 Client: 2 training loss: 0.1627546
+2025-04-11 06:40:56,777 - INFO - Epoch: 99/1000 Client: 3 training loss: 0.1630613
+2025-04-11 06:41:50,425 - INFO - Epoch: 99/1000 Client: 4 training loss: 0.1629386
+2025-04-11 06:42:44,099 - INFO - Epoch: 99/1000 Client: 5 training loss: 0.1624498
+2025-04-11 06:42:55,443 - INFO - validate loss: 0.2057057
+2025-04-11 06:43:48,901 - INFO - Epoch: 100/1000 Client: 1 training loss: 0.1611880
+2025-04-11 06:44:42,563 - INFO - Epoch: 100/1000 Client: 2 training loss: 0.1622355
+2025-04-11 06:45:36,215 - INFO - Epoch: 100/1000 Client: 3 training loss: 0.1622724
+2025-04-11 06:46:29,803 - INFO - Epoch: 100/1000 Client: 4 training loss: 0.1622346
+2025-04-11 06:47:23,384 - INFO - Epoch: 100/1000 Client: 5 training loss: 0.1618501
+2025-04-11 06:47:34,714 - INFO - validate loss: 0.2074382
+2025-04-11 06:48:28,071 - INFO - Epoch: 101/1000 Client: 1 training loss: 0.1626404
+2025-04-11 06:49:21,590 - INFO - Epoch: 101/1000 Client: 2 training loss: 0.1624922
+2025-04-11 06:50:15,147 - INFO - Epoch: 101/1000 Client: 3 training loss: 0.1623250
+2025-04-11 06:51:08,685 - INFO - Epoch: 101/1000 Client: 4 training loss: 0.1624284
+2025-04-11 06:52:02,239 - INFO - Epoch: 101/1000 Client: 5 training loss: 0.1618317
+2025-04-11 06:52:13,590 - INFO - validate loss: 0.2062069
+2025-04-11 06:53:06,989 - INFO - Epoch: 102/1000 Client: 1 training loss: 0.1609522
+2025-04-11 06:54:00,610 - INFO - Epoch: 102/1000 Client: 2 training loss: 0.1611292
+2025-04-11 06:54:54,199 - INFO - Epoch: 102/1000 Client: 3 training loss: 0.1615279
+2025-04-11 06:55:47,806 - INFO - Epoch: 102/1000 Client: 4 training loss: 0.1616114
+2025-04-11 06:56:41,410 - INFO - Epoch: 102/1000 Client: 5 training loss: 0.1612713
+2025-04-11 06:56:52,919 - INFO - validate loss: 0.2052719
+2025-04-11 06:56:53,483 - INFO - Best global model saved with validation loss: 0.2052719
+2025-04-11 06:57:46,899 - INFO - Epoch: 103/1000 Client: 1 training loss: 0.1597015
+2025-04-11 06:58:40,522 - INFO - Epoch: 103/1000 Client: 2 training loss: 0.1606271
+2025-04-11 06:59:34,145 - INFO - Epoch: 103/1000 Client: 3 training loss: 0.1606626
+2025-04-11 07:00:27,765 - INFO - Epoch: 103/1000 Client: 4 training loss: 0.1612017
+2025-04-11 07:01:21,421 - INFO - Epoch: 103/1000 Client: 5 training loss: 0.1607401
+2025-04-11 07:01:32,803 - INFO - validate loss: 0.2071607
+2025-04-11 07:02:26,248 - INFO - Epoch: 104/1000 Client: 1 training loss: 0.1601399
+2025-04-11 07:03:19,863 - INFO - Epoch: 104/1000 Client: 2 training loss: 0.1611399
+2025-04-11 07:04:13,511 - INFO - Epoch: 104/1000 Client: 3 training loss: 0.1608163
+2025-04-11 07:05:07,172 - INFO - Epoch: 104/1000 Client: 4 training loss: 0.1610075
+2025-04-11 07:05:59,829 - INFO - Epoch: 104/1000 Client: 5 training loss: 0.1604731
+2025-04-11 07:06:11,233 - INFO - validate loss: 0.2066233
+2025-04-11 07:07:04,708 - INFO - Epoch: 105/1000 Client: 1 training loss: 0.1594373
+2025-04-11 07:07:58,359 - INFO - Epoch: 105/1000 Client: 2 training loss: 0.1603391
+2025-04-11 07:08:52,041 - INFO - Epoch: 105/1000 Client: 3 training loss: 0.1605514
+2025-04-11 07:09:45,680 - INFO - Epoch: 105/1000 Client: 4 training loss: 0.1607310
+2025-04-11 07:10:39,269 - INFO - Epoch: 105/1000 Client: 5 training loss: 0.1603113
+2025-04-11 07:10:50,692 - INFO - validate loss: 0.2056743
+2025-04-11 07:11:44,028 - INFO - Epoch: 106/1000 Client: 1 training loss: 0.1604918
+2025-04-11 07:12:37,517 - INFO - Epoch: 106/1000 Client: 2 training loss: 0.1608329
+2025-04-11 07:13:29,744 - INFO - Epoch: 106/1000 Client: 3 training loss: 0.1609710
+2025-04-11 07:14:23,400 - INFO - Epoch: 106/1000 Client: 4 training loss: 0.1606407
+2025-04-11 07:15:17,114 - INFO - Epoch: 106/1000 Client: 5 training loss: 0.1603822
+2025-04-11 07:15:28,633 - INFO - validate loss: 0.2038991
+2025-04-11 07:15:29,198 - INFO - Best global model saved with validation loss: 0.2038991
+2025-04-11 07:16:22,640 - INFO - Epoch: 107/1000 Client: 1 training loss: 0.1584638
+2025-04-11 07:17:16,283 - INFO - Epoch: 107/1000 Client: 2 training loss: 0.1590566
+2025-04-11 07:18:09,888 - INFO - Epoch: 107/1000 Client: 3 training loss: 0.1592473
+2025-04-11 07:19:03,446 - INFO - Epoch: 107/1000 Client: 4 training loss: 0.1593705
+2025-04-11 07:19:56,991 - INFO - Epoch: 107/1000 Client: 5 training loss: 0.1589211
+2025-04-11 07:20:08,327 - INFO - validate loss: 0.2046058
+2025-04-11 07:21:01,664 - INFO - Epoch: 108/1000 Client: 1 training loss: 0.1592897
+2025-04-11 07:21:55,218 - INFO - Epoch: 108/1000 Client: 2 training loss: 0.1592606
+2025-04-11 07:22:48,772 - INFO - Epoch: 108/1000 Client: 3 training loss: 0.1594048
+2025-04-11 07:23:42,298 - INFO - Epoch: 108/1000 Client: 4 training loss: 0.1594219
+2025-04-11 07:24:35,878 - INFO - Epoch: 108/1000 Client: 5 training loss: 0.1591993
+2025-04-11 07:24:47,202 - INFO - validate loss: 0.2047215
+2025-04-11 07:25:40,554 - INFO - Epoch: 109/1000 Client: 1 training loss: 0.1585848
+2025-04-11 07:26:34,095 - INFO - Epoch: 109/1000 Client: 2 training loss: 0.1588646
+2025-04-11 07:27:27,682 - INFO - Epoch: 109/1000 Client: 3 training loss: 0.1591768
+2025-04-11 07:28:21,310 - INFO - Epoch: 109/1000 Client: 4 training loss: 0.1590922
+2025-04-11 07:29:14,910 - INFO - Epoch: 109/1000 Client: 5 training loss: 0.1587676
+2025-04-11 07:29:26,304 - INFO - validate loss: 0.2039403
+2025-04-11 07:30:19,728 - INFO - Epoch: 110/1000 Client: 1 training loss: 0.1593955
+2025-04-11 07:31:13,340 - INFO - Epoch: 110/1000 Client: 2 training loss: 0.1587599
+2025-04-11 07:32:06,944 - INFO - Epoch: 110/1000 Client: 3 training loss: 0.1585057
+2025-04-11 07:33:00,570 - INFO - Epoch: 110/1000 Client: 4 training loss: 0.1585393
+2025-04-11 07:33:54,227 - INFO - Epoch: 110/1000 Client: 5 training loss: 0.1581700
+2025-04-11 07:34:05,771 - INFO - validate loss: 0.2022807
+2025-04-11 07:34:06,325 - INFO - Best global model saved with validation loss: 0.2022807
+2025-04-11 07:34:59,746 - INFO - Epoch: 111/1000 Client: 1 training loss: 0.1571786
+2025-04-11 07:35:53,396 - INFO - Epoch: 111/1000 Client: 2 training loss: 0.1579236
+2025-04-11 07:36:47,037 - INFO - Epoch: 111/1000 Client: 3 training loss: 0.1578594
+2025-04-11 07:37:40,709 - INFO - Epoch: 111/1000 Client: 4 training loss: 0.1580880
+2025-04-11 07:38:34,371 - INFO - Epoch: 111/1000 Client: 5 training loss: 0.1577398
+2025-04-11 07:38:45,702 - INFO - validate loss: 0.2011655
+2025-04-11 07:38:46,255 - INFO - Best global model saved with validation loss: 0.2011655
+2025-04-11 07:39:39,718 - INFO - Epoch: 112/1000 Client: 1 training loss: 0.1582720
+2025-04-11 07:40:33,342 - INFO - Epoch: 112/1000 Client: 2 training loss: 0.1580900
+2025-04-11 07:41:27,000 - INFO - Epoch: 112/1000 Client: 3 training loss: 0.1582378
+2025-04-11 07:42:20,662 - INFO - Epoch: 112/1000 Client: 4 training loss: 0.1581539
+2025-04-11 07:43:14,340 - INFO - Epoch: 112/1000 Client: 5 training loss: 0.1577249
+2025-04-11 07:43:25,697 - INFO - validate loss: 0.1988437
+2025-04-11 07:43:26,259 - INFO - Best global model saved with validation loss: 0.1988437
+2025-04-11 07:44:19,713 - INFO - Epoch: 113/1000 Client: 1 training loss: 0.1563339
+2025-04-11 07:45:13,402 - INFO - Epoch: 113/1000 Client: 2 training loss: 0.1567616
+2025-04-11 07:46:07,099 - INFO - Epoch: 113/1000 Client: 3 training loss: 0.1574244
+2025-04-11 07:47:00,796 - INFO - Epoch: 113/1000 Client: 4 training loss: 0.1574202
+2025-04-11 07:47:54,483 - INFO - Epoch: 113/1000 Client: 5 training loss: 0.1570759
+2025-04-11 07:48:05,867 - INFO - validate loss: 0.1985448
+2025-04-11 07:48:06,410 - INFO - Best global model saved with validation loss: 0.1985448
+2025-04-11 07:48:59,793 - INFO - Epoch: 114/1000 Client: 1 training loss: 0.1567456
+2025-04-11 07:49:53,302 - INFO - Epoch: 114/1000 Client: 2 training loss: 0.1567447
+2025-04-11 07:50:46,852 - INFO - Epoch: 114/1000 Client: 3 training loss: 0.1566774
+2025-04-11 07:51:40,360 - INFO - Epoch: 114/1000 Client: 4 training loss: 0.1568216
+2025-04-11 07:52:33,993 - INFO - Epoch: 114/1000 Client: 5 training loss: 0.1566988
+2025-04-11 07:52:45,550 - INFO - validate loss: 0.1973055
+2025-04-11 07:52:46,097 - INFO - Best global model saved with validation loss: 0.1973055
+2025-04-11 07:53:39,479 - INFO - Epoch: 115/1000 Client: 1 training loss: 0.1555866
+2025-04-11 07:54:33,046 - INFO - Epoch: 115/1000 Client: 2 training loss: 0.1561336
+2025-04-11 07:55:26,646 - INFO - Epoch: 115/1000 Client: 3 training loss: 0.1560261
+2025-04-11 07:56:20,182 - INFO - Epoch: 115/1000 Client: 4 training loss: 0.1562692
+2025-04-11 07:57:13,773 - INFO - Epoch: 115/1000 Client: 5 training loss: 0.1559423
+2025-04-11 07:57:25,140 - INFO - validate loss: 0.1962437
+2025-04-11 07:57:25,690 - INFO - Best global model saved with validation loss: 0.1962437
+2025-04-11 07:58:19,022 - INFO - Epoch: 116/1000 Client: 1 training loss: 0.1547504
+2025-04-11 07:59:12,565 - INFO - Epoch: 116/1000 Client: 2 training loss: 0.1553714
+2025-04-11 08:00:06,141 - INFO - Epoch: 116/1000 Client: 3 training loss: 0.1558321
+2025-04-11 08:00:59,762 - INFO - Epoch: 116/1000 Client: 4 training loss: 0.1559762
+2025-04-11 08:01:53,386 - INFO - Epoch: 116/1000 Client: 5 training loss: 0.1557541
+2025-04-11 08:02:04,786 - INFO - validate loss: 0.1937462
+2025-04-11 08:02:05,358 - INFO - Best global model saved with validation loss: 0.1937462
+2025-04-11 08:02:58,793 - INFO - Epoch: 117/1000 Client: 1 training loss: 0.1543008
+2025-04-11 08:03:52,391 - INFO - Epoch: 117/1000 Client: 2 training loss: 0.1552635
+2025-04-11 08:04:44,983 - INFO - Epoch: 117/1000 Client: 3 training loss: 0.1554209
+2025-04-11 08:05:38,608 - INFO - Epoch: 117/1000 Client: 4 training loss: 0.1559858
+2025-04-11 08:06:32,232 - INFO - Epoch: 117/1000 Client: 5 training loss: 0.1556657
+2025-04-11 08:06:43,642 - INFO - validate loss: 0.1922211
+2025-04-11 08:06:44,204 - INFO - Best global model saved with validation loss: 0.1922211
+2025-04-11 08:07:37,659 - INFO - Epoch: 118/1000 Client: 1 training loss: 0.1554576
+2025-04-11 08:08:31,288 - INFO - Epoch: 118/1000 Client: 2 training loss: 0.1553563
+2025-04-11 08:09:24,926 - INFO - Epoch: 118/1000 Client: 3 training loss: 0.1552075
+2025-04-11 08:10:18,577 - INFO - Epoch: 118/1000 Client: 4 training loss: 0.1552574
+2025-04-11 08:11:12,270 - INFO - Epoch: 118/1000 Client: 5 training loss: 0.1550016
+2025-04-11 08:11:23,794 - INFO - validate loss: 0.1912583
+2025-04-11 08:11:24,360 - INFO - Best global model saved with validation loss: 0.1912583
+2025-04-11 08:12:17,811 - INFO - Epoch: 119/1000 Client: 1 training loss: 0.1540727
+2025-04-11 08:13:11,461 - INFO - Epoch: 119/1000 Client: 2 training loss: 0.1539774
+2025-04-11 08:14:05,094 - INFO - Epoch: 119/1000 Client: 3 training loss: 0.1541022
+2025-04-11 08:14:58,756 - INFO - Epoch: 119/1000 Client: 4 training loss: 0.1544122
+2025-04-11 08:15:52,440 - INFO - Epoch: 119/1000 Client: 5 training loss: 0.1542341
+2025-04-11 08:16:03,853 - INFO - validate loss: 0.1912452
+2025-04-11 08:16:04,419 - INFO - Best global model saved with validation loss: 0.1912452
+2025-04-11 08:16:57,903 - INFO - Epoch: 120/1000 Client: 1 training loss: 0.1536270
+2025-04-11 08:17:51,579 - INFO - Epoch: 120/1000 Client: 2 training loss: 0.1544810
+2025-04-11 08:18:45,235 - INFO - Epoch: 120/1000 Client: 3 training loss: 0.1543658
+2025-04-11 08:19:38,902 - INFO - Epoch: 120/1000 Client: 4 training loss: 0.1544770
+2025-04-11 08:20:32,548 - INFO - Epoch: 120/1000 Client: 5 training loss: 0.1542672
+2025-04-11 08:20:43,901 - INFO - validate loss: 0.1894522
+2025-04-11 08:20:44,456 - INFO - Best global model saved with validation loss: 0.1894522
+2025-04-11 08:21:37,896 - INFO - Epoch: 121/1000 Client: 1 training loss: 0.1536755
+2025-04-11 08:22:31,481 - INFO - Epoch: 121/1000 Client: 2 training loss: 0.1536219
+2025-04-11 08:23:25,039 - INFO - Epoch: 121/1000 Client: 3 training loss: 0.1534975
+2025-04-11 08:24:18,615 - INFO - Epoch: 121/1000 Client: 4 training loss: 0.1538195
+2025-04-11 08:25:12,176 - INFO - Epoch: 121/1000 Client: 5 training loss: 0.1535237
+2025-04-11 08:25:23,589 - INFO - validate loss: 0.1884908
+2025-04-11 08:25:24,137 - INFO - Best global model saved with validation loss: 0.1884908
+2025-04-11 08:26:17,472 - INFO - Epoch: 122/1000 Client: 1 training loss: 0.1531943
+2025-04-11 08:27:10,935 - INFO - Epoch: 122/1000 Client: 2 training loss: 0.1536965
+2025-04-11 08:28:04,373 - INFO - Epoch: 122/1000 Client: 3 training loss: 0.1537984
+2025-04-11 08:28:57,837 - INFO - Epoch: 122/1000 Client: 4 training loss: 0.1536607
+2025-04-11 08:29:49,947 - INFO - Epoch: 122/1000 Client: 5 training loss: 0.1534452
+2025-04-11 08:30:01,490 - INFO - validate loss: 0.1873235
+2025-04-11 08:30:02,046 - INFO - Best global model saved with validation loss: 0.1873235
+2025-04-11 08:30:55,470 - INFO - Epoch: 123/1000 Client: 1 training loss: 0.1529496
+2025-04-11 08:31:49,069 - INFO - Epoch: 123/1000 Client: 2 training loss: 0.1532396
+2025-04-11 08:32:42,685 - INFO - Epoch: 123/1000 Client: 3 training loss: 0.1534125
+2025-04-11 08:33:36,322 - INFO - Epoch: 123/1000 Client: 4 training loss: 0.1534621
+2025-04-11 08:34:29,927 - INFO - Epoch: 123/1000 Client: 5 training loss: 0.1530079
+2025-04-11 08:34:41,306 - INFO - validate loss: 0.1861949
+2025-04-11 08:34:41,879 - INFO - Best global model saved with validation loss: 0.1861949
+2025-04-11 08:35:35,297 - INFO - Epoch: 124/1000 Client: 1 training loss: 0.1538591
+2025-04-11 08:36:28,929 - INFO - Epoch: 124/1000 Client: 2 training loss: 0.1535521
+2025-04-11 08:37:22,570 - INFO - Epoch: 124/1000 Client: 3 training loss: 0.1533418
+2025-04-11 08:38:16,181 - INFO - Epoch: 124/1000 Client: 4 training loss: 0.1536702
+2025-04-11 08:39:09,810 - INFO - Epoch: 124/1000 Client: 5 training loss: 0.1532723
+2025-04-11 08:39:21,200 - INFO - validate loss: 0.1851327
+2025-04-11 08:39:21,750 - INFO - Best global model saved with validation loss: 0.1851327
+2025-04-11 08:40:15,168 - INFO - Epoch: 125/1000 Client: 1 training loss: 0.1522450
+2025-04-11 08:41:08,779 - INFO - Epoch: 125/1000 Client: 2 training loss: 0.1525450
+2025-04-11 08:42:02,431 - INFO - Epoch: 125/1000 Client: 3 training loss: 0.1525855
+2025-04-11 08:42:56,086 - INFO - Epoch: 125/1000 Client: 4 training loss: 0.1529410
+2025-04-11 08:43:49,731 - INFO - Epoch: 125/1000 Client: 5 training loss: 0.1525944
+2025-04-11 08:44:01,074 - INFO - validate loss: 0.1854870
+2025-04-11 08:44:54,508 - INFO - Epoch: 126/1000 Client: 1 training loss: 0.1526943
+2025-04-11 08:45:48,159 - INFO - Epoch: 126/1000 Client: 2 training loss: 0.1528454
+2025-04-11 08:46:41,830 - INFO - Epoch: 126/1000 Client: 3 training loss: 0.1527840
+2025-04-11 08:47:35,478 - INFO - Epoch: 126/1000 Client: 4 training loss: 0.1526759
+2025-04-11 08:48:29,184 - INFO - Epoch: 126/1000 Client: 5 training loss: 0.1523988
+2025-04-11 08:48:40,699 - INFO - validate loss: 0.1850307
+2025-04-11 08:48:41,257 - INFO - Best global model saved with validation loss: 0.1850307
+2025-04-11 08:49:34,716 - INFO - Epoch: 127/1000 Client: 1 training loss: 0.1511528
+2025-04-11 08:50:28,378 - INFO - Epoch: 127/1000 Client: 2 training loss: 0.1515862
+2025-04-11 08:51:22,057 - INFO - Epoch: 127/1000 Client: 3 training loss: 0.1517752
+2025-04-11 08:52:15,704 - INFO - Epoch: 127/1000 Client: 4 training loss: 0.1518557
+2025-04-11 08:53:09,356 - INFO - Epoch: 127/1000 Client: 5 training loss: 0.1516012
+2025-04-11 08:53:20,703 - INFO - validate loss: 0.1849072
+2025-04-11 08:53:21,245 - INFO - Best global model saved with validation loss: 0.1849072
+2025-04-11 08:54:14,633 - INFO - Epoch: 128/1000 Client: 1 training loss: 0.1514423
+2025-04-11 08:55:08,163 - INFO - Epoch: 128/1000 Client: 2 training loss: 0.1517281
+2025-04-11 08:56:01,720 - INFO - Epoch: 128/1000 Client: 3 training loss: 0.1516443
+2025-04-11 08:56:55,242 - INFO - Epoch: 128/1000 Client: 4 training loss: 0.1516861
+2025-04-11 08:57:48,737 - INFO - Epoch: 128/1000 Client: 5 training loss: 0.1512331
+2025-04-11 08:58:00,046 - INFO - validate loss: 0.1834352
+2025-04-11 08:58:00,608 - INFO - Best global model saved with validation loss: 0.1834352
+2025-04-11 08:58:53,926 - INFO - Epoch: 129/1000 Client: 1 training loss: 0.1503882
+2025-04-11 08:59:46,452 - INFO - Epoch: 129/1000 Client: 2 training loss: 0.1513934
+2025-04-11 09:00:39,955 - INFO - Epoch: 129/1000 Client: 3 training loss: 0.1514728
+2025-04-11 09:01:33,510 - INFO - Epoch: 129/1000 Client: 4 training loss: 0.1517239
+2025-04-11 09:02:27,117 - INFO - Epoch: 129/1000 Client: 5 training loss: 0.1512641
+2025-04-11 09:02:38,524 - INFO - validate loss: 0.1820529
+2025-04-11 09:02:39,064 - INFO - Best global model saved with validation loss: 0.1820529
+2025-04-11 09:03:32,473 - INFO - Epoch: 130/1000 Client: 1 training loss: 0.1514703
+2025-04-11 09:04:26,076 - INFO - Epoch: 130/1000 Client: 2 training loss: 0.1512708
+2025-04-11 09:05:19,538 - INFO - Epoch: 130/1000 Client: 3 training loss: 0.1508651
+2025-04-11 09:06:12,986 - INFO - Epoch: 130/1000 Client: 4 training loss: 0.1511271
+2025-04-11 09:07:06,461 - INFO - Epoch: 130/1000 Client: 5 training loss: 0.1509371
+2025-04-11 09:07:17,903 - INFO - validate loss: 0.1798937
+2025-04-11 09:07:18,453 - INFO - Best global model saved with validation loss: 0.1798937
+2025-04-11 09:08:11,765 - INFO - Epoch: 131/1000 Client: 1 training loss: 0.1498258
+2025-04-11 09:09:05,374 - INFO - Epoch: 131/1000 Client: 2 training loss: 0.1506899
+2025-04-11 09:09:59,007 - INFO - Epoch: 131/1000 Client: 3 training loss: 0.1505944
+2025-04-11 09:10:52,615 - INFO - Epoch: 131/1000 Client: 4 training loss: 0.1506038
+2025-04-11 09:11:46,271 - INFO - Epoch: 131/1000 Client: 5 training loss: 0.1504119
+2025-04-11 09:11:57,613 - INFO - validate loss: 0.1791112
+2025-04-11 09:11:58,178 - INFO - Best global model saved with validation loss: 0.1791112
+2025-04-11 09:12:51,598 - INFO - Epoch: 132/1000 Client: 1 training loss: 0.1501198
+2025-04-11 09:13:45,239 - INFO - Epoch: 132/1000 Client: 2 training loss: 0.1507332
+2025-04-11 09:14:38,878 - INFO - Epoch: 132/1000 Client: 3 training loss: 0.1507389
+2025-04-11 09:15:32,513 - INFO - Epoch: 132/1000 Client: 4 training loss: 0.1505898
+2025-04-11 09:16:26,179 - INFO - Epoch: 132/1000 Client: 5 training loss: 0.1501909
+2025-04-11 09:16:37,610 - INFO - validate loss: 0.1785645
+2025-04-11 09:16:38,178 - INFO - Best global model saved with validation loss: 0.1785645
+2025-04-11 09:17:31,616 - INFO - Epoch: 133/1000 Client: 1 training loss: 0.1494397
+2025-04-11 09:18:25,192 - INFO - Epoch: 133/1000 Client: 2 training loss: 0.1500557
+2025-04-11 09:19:18,827 - INFO - Epoch: 133/1000 Client: 3 training loss: 0.1499270
+2025-04-11 09:20:12,475 - INFO - Epoch: 133/1000 Client: 4 training loss: 0.1501378
+2025-04-11 09:21:06,137 - INFO - Epoch: 133/1000 Client: 5 training loss: 0.1498968
+2025-04-11 09:21:17,531 - INFO - validate loss: 0.1769052
+2025-04-11 09:21:18,083 - INFO - Best global model saved with validation loss: 0.1769052
+2025-04-11 09:22:11,542 - INFO - Epoch: 134/1000 Client: 1 training loss: 0.1498431
+2025-04-11 09:23:05,217 - INFO - Epoch: 134/1000 Client: 2 training loss: 0.1498910
+2025-04-11 09:23:58,914 - INFO - Epoch: 134/1000 Client: 3 training loss: 0.1498237
+2025-04-11 09:24:52,563 - INFO - Epoch: 134/1000 Client: 4 training loss: 0.1499383
+2025-04-11 09:25:46,222 - INFO - Epoch: 134/1000 Client: 5 training loss: 0.1493916
+2025-04-11 09:25:57,777 - INFO - validate loss: 0.1769391
+2025-04-11 09:26:51,261 - INFO - Epoch: 135/1000 Client: 1 training loss: 0.1491566
+2025-04-11 09:27:44,951 - INFO - Epoch: 135/1000 Client: 2 training loss: 0.1493235
+2025-04-11 09:28:38,583 - INFO - Epoch: 135/1000 Client: 3 training loss: 0.1491148
+2025-04-11 09:29:32,201 - INFO - Epoch: 135/1000 Client: 4 training loss: 0.1492309
+2025-04-11 09:30:25,766 - INFO - Epoch: 135/1000 Client: 5 training loss: 0.1491083
+2025-04-11 09:30:37,094 - INFO - validate loss: 0.1765883
+2025-04-11 09:30:37,645 - INFO - Best global model saved with validation loss: 0.1765883
+2025-04-11 09:31:31,002 - INFO - Epoch: 136/1000 Client: 1 training loss: 0.1485753
+2025-04-11 09:32:24,534 - INFO - Epoch: 136/1000 Client: 2 training loss: 0.1491873
+2025-04-11 09:33:18,043 - INFO - Epoch: 136/1000 Client: 3 training loss: 0.1490551
+2025-04-11 09:34:11,582 - INFO - Epoch: 136/1000 Client: 4 training loss: 0.1489720
+2025-04-11 09:35:05,112 - INFO - Epoch: 136/1000 Client: 5 training loss: 0.1486484
+2025-04-11 09:35:16,493 - INFO - validate loss: 0.1761032
+2025-04-11 09:35:17,042 - INFO - Best global model saved with validation loss: 0.1761032
+2025-04-11 09:36:10,373 - INFO - Epoch: 137/1000 Client: 1 training loss: 0.1483213
+2025-04-11 09:37:03,937 - INFO - Epoch: 137/1000 Client: 2 training loss: 0.1486930
+2025-04-11 09:37:57,493 - INFO - Epoch: 137/1000 Client: 3 training loss: 0.1487851
+2025-04-11 09:38:51,072 - INFO - Epoch: 137/1000 Client: 4 training loss: 0.1488657
+2025-04-11 09:39:44,642 - INFO - Epoch: 137/1000 Client: 5 training loss: 0.1485168
+2025-04-11 09:39:56,014 - INFO - validate loss: 0.1758763
+2025-04-11 09:39:56,569 - INFO - Best global model saved with validation loss: 0.1758763
+2025-04-11 09:40:49,966 - INFO - Epoch: 138/1000 Client: 1 training loss: 0.1480077
+2025-04-11 09:41:43,549 - INFO - Epoch: 138/1000 Client: 2 training loss: 0.1482631
+2025-04-11 09:42:37,133 - INFO - Epoch: 138/1000 Client: 3 training loss: 0.1481616
+2025-04-11 09:43:30,663 - INFO - Epoch: 138/1000 Client: 4 training loss: 0.1482670
+2025-04-11 09:44:24,147 - INFO - Epoch: 138/1000 Client: 5 training loss: 0.1478707
+2025-04-11 09:44:35,582 - INFO - validate loss: 0.1755947
+2025-04-11 09:44:36,137 - INFO - Best global model saved with validation loss: 0.1755947
+2025-04-11 09:45:29,425 - INFO - Epoch: 139/1000 Client: 1 training loss: 0.1482890
+2025-04-11 09:46:21,611 - INFO - Epoch: 139/1000 Client: 2 training loss: 0.1484528
+2025-04-11 09:47:15,255 - INFO - Epoch: 139/1000 Client: 3 training loss: 0.1484670
+2025-04-11 09:48:08,884 - INFO - Epoch: 139/1000 Client: 4 training loss: 0.1485802
+2025-04-11 09:49:02,534 - INFO - Epoch: 139/1000 Client: 5 training loss: 0.1482397
+2025-04-11 09:49:13,936 - INFO - validate loss: 0.1771645
+2025-04-11 09:50:07,361 - INFO - Epoch: 140/1000 Client: 1 training loss: 0.1481930
+2025-04-11 09:51:00,988 - INFO - Epoch: 140/1000 Client: 2 training loss: 0.1483611
+2025-04-11 09:51:54,644 - INFO - Epoch: 140/1000 Client: 3 training loss: 0.1484750
+2025-04-11 09:52:48,268 - INFO - Epoch: 140/1000 Client: 4 training loss: 0.1485117
+2025-04-11 09:53:41,900 - INFO - Epoch: 140/1000 Client: 5 training loss: 0.1481317
+2025-04-11 09:53:53,258 - INFO - validate loss: 0.1779573
+2025-04-11 09:54:46,608 - INFO - Epoch: 141/1000 Client: 1 training loss: 0.1474184
+2025-04-11 09:55:40,198 - INFO - Epoch: 141/1000 Client: 2 training loss: 0.1479843
+2025-04-11 09:56:33,713 - INFO - Epoch: 141/1000 Client: 3 training loss: 0.1481617
+2025-04-11 09:57:26,217 - INFO - Epoch: 141/1000 Client: 4 training loss: 0.1480121
+2025-04-11 09:58:19,715 - INFO - Epoch: 141/1000 Client: 5 training loss: 0.1476934
+2025-04-11 09:58:31,062 - INFO - validate loss: 0.1770602
+2025-04-11 09:59:24,346 - INFO - Epoch: 142/1000 Client: 1 training loss: 0.1467486
+2025-04-11 10:00:17,868 - INFO - Epoch: 142/1000 Client: 2 training loss: 0.1476749
+2025-04-11 10:01:11,403 - INFO - Epoch: 142/1000 Client: 3 training loss: 0.1477536
+2025-04-11 10:02:04,950 - INFO - Epoch: 142/1000 Client: 4 training loss: 0.1477176
+2025-04-11 10:02:58,532 - INFO - Epoch: 142/1000 Client: 5 training loss: 0.1475285
+2025-04-11 10:03:09,959 - INFO - validate loss: 0.1768940
+2025-04-11 10:04:03,356 - INFO - Epoch: 143/1000 Client: 1 training loss: 0.1478431
+2025-04-11 10:04:56,952 - INFO - Epoch: 143/1000 Client: 2 training loss: 0.1479062
+2025-04-11 10:05:50,546 - INFO - Epoch: 143/1000 Client: 3 training loss: 0.1476889
+2025-04-11 10:06:44,124 - INFO - Epoch: 143/1000 Client: 4 training loss: 0.1476412
+2025-04-11 10:07:37,712 - INFO - Epoch: 143/1000 Client: 5 training loss: 0.1472513
+2025-04-11 10:07:49,054 - INFO - validate loss: 0.1757449
+2025-04-11 10:08:42,419 - INFO - Epoch: 144/1000 Client: 1 training loss: 0.1460614
+2025-04-11 10:09:36,010 - INFO - Epoch: 144/1000 Client: 2 training loss: 0.1468913
+2025-04-11 10:10:29,630 - INFO - Epoch: 144/1000 Client: 3 training loss: 0.1469722
+2025-04-11 10:11:23,242 - INFO - Epoch: 144/1000 Client: 4 training loss: 0.1470911
+2025-04-11 10:12:16,857 - INFO - Epoch: 144/1000 Client: 5 training loss: 0.1469983
+2025-04-11 10:12:28,241 - INFO - validate loss: 0.1755135
+2025-04-11 10:12:28,802 - INFO - Best global model saved with validation loss: 0.1755135
+2025-04-11 10:13:22,251 - INFO - Epoch: 145/1000 Client: 1 training loss: 0.1464647
+2025-04-11 10:14:15,857 - INFO - Epoch: 145/1000 Client: 2 training loss: 0.1469899
+2025-04-11 10:15:09,491 - INFO - Epoch: 145/1000 Client: 3 training loss: 0.1470416
+2025-04-11 10:16:03,093 - INFO - Epoch: 145/1000 Client: 4 training loss: 0.1468144
+2025-04-11 10:16:56,750 - INFO - Epoch: 145/1000 Client: 5 training loss: 0.1466264
+2025-04-11 10:17:08,113 - INFO - validate loss: 0.1750347
+2025-04-11 10:17:08,673 - INFO - Best global model saved with validation loss: 0.1750347
+2025-04-11 10:18:02,152 - INFO - Epoch: 146/1000 Client: 1 training loss: 0.1466519
+2025-04-11 10:18:55,780 - INFO - Epoch: 146/1000 Client: 2 training loss: 0.1468995
+2025-04-11 10:19:49,432 - INFO - Epoch: 146/1000 Client: 3 training loss: 0.1468615
+2025-04-11 10:20:43,047 - INFO - Epoch: 146/1000 Client: 4 training loss: 0.1467669
+2025-04-11 10:21:36,615 - INFO - Epoch: 146/1000 Client: 5 training loss: 0.1464921
+2025-04-11 10:21:47,934 - INFO - validate loss: 0.1744751
+2025-04-11 10:21:48,501 - INFO - Best global model saved with validation loss: 0.1744751
+2025-04-11 10:22:41,790 - INFO - Epoch: 147/1000 Client: 1 training loss: 0.1458339
+2025-04-11 10:23:35,276 - INFO - Epoch: 147/1000 Client: 2 training loss: 0.1464390
+2025-04-11 10:24:27,497 - INFO - Epoch: 147/1000 Client: 3 training loss: 0.1462639
+2025-04-11 10:25:21,160 - INFO - Epoch: 147/1000 Client: 4 training loss: 0.1463484
+2025-04-11 10:26:14,840 - INFO - Epoch: 147/1000 Client: 5 training loss: 0.1459794
+2025-04-11 10:26:26,268 - INFO - validate loss: 0.1734608
+2025-04-11 10:26:26,815 - INFO - Best global model saved with validation loss: 0.1734608
+2025-04-11 10:27:20,319 - INFO - Epoch: 148/1000 Client: 1 training loss: 0.1465250
+2025-04-11 10:28:13,928 - INFO - Epoch: 148/1000 Client: 2 training loss: 0.1468285
+2025-04-11 10:29:07,588 - INFO - Epoch: 148/1000 Client: 3 training loss: 0.1466177
+2025-04-11 10:30:01,180 - INFO - Epoch: 148/1000 Client: 4 training loss: 0.1466898
+2025-04-11 10:30:54,743 - INFO - Epoch: 148/1000 Client: 5 training loss: 0.1462652
+2025-04-11 10:31:06,091 - INFO - validate loss: 0.1734838
+2025-04-11 10:31:59,439 - INFO - Epoch: 149/1000 Client: 1 training loss: 0.1449899
+2025-04-11 10:32:52,987 - INFO - Epoch: 149/1000 Client: 2 training loss: 0.1458824
+2025-04-11 10:33:46,524 - INFO - Epoch: 149/1000 Client: 3 training loss: 0.1456176
+2025-04-11 10:34:40,048 - INFO - Epoch: 149/1000 Client: 4 training loss: 0.1458234
+2025-04-11 10:35:33,578 - INFO - Epoch: 149/1000 Client: 5 training loss: 0.1454807
+2025-04-11 10:35:44,939 - INFO - validate loss: 0.1735502
+2025-04-11 10:36:38,317 - INFO - Epoch: 150/1000 Client: 1 training loss: 0.1453841
+2025-04-11 10:37:31,898 - INFO - Epoch: 150/1000 Client: 2 training loss: 0.1457568
+2025-04-11 10:38:25,471 - INFO - Epoch: 150/1000 Client: 3 training loss: 0.1456712
+2025-04-11 10:39:19,059 - INFO - Epoch: 150/1000 Client: 4 training loss: 0.1456890
+2025-04-11 10:40:12,613 - INFO - Epoch: 150/1000 Client: 5 training loss: 0.1453618
+2025-04-11 10:40:23,939 - INFO - validate loss: 0.1710855
+2025-04-11 10:40:24,496 - INFO - Best global model saved with validation loss: 0.1710855
+2025-04-11 10:41:17,875 - INFO - Epoch: 151/1000 Client: 1 training loss: 0.1448077
+2025-04-11 10:42:11,494 - INFO - Epoch: 151/1000 Client: 2 training loss: 0.1453462
+2025-04-11 10:43:05,089 - INFO - Epoch: 151/1000 Client: 3 training loss: 0.1453188
+2025-04-11 10:43:58,688 - INFO - Epoch: 151/1000 Client: 4 training loss: 0.1454416
+2025-04-11 10:44:52,298 - INFO - Epoch: 151/1000 Client: 5 training loss: 0.1453232
+2025-04-11 10:45:03,685 - INFO - validate loss: 0.1701765
+2025-04-11 10:45:04,260 - INFO - Best global model saved with validation loss: 0.1701765
+2025-04-11 10:45:57,695 - INFO - Epoch: 152/1000 Client: 1 training loss: 0.1445161
+2025-04-11 10:46:51,305 - INFO - Epoch: 152/1000 Client: 2 training loss: 0.1450317
+2025-04-11 10:47:44,911 - INFO - Epoch: 152/1000 Client: 3 training loss: 0.1452952
+2025-04-11 10:48:38,536 - INFO - Epoch: 152/1000 Client: 4 training loss: 0.1453204
+2025-04-11 10:49:32,181 - INFO - Epoch: 152/1000 Client: 5 training loss: 0.1448782
+2025-04-11 10:49:43,514 - INFO - validate loss: 0.1692038
+2025-04-11 10:49:44,078 - INFO - Best global model saved with validation loss: 0.1692038
+2025-04-11 10:50:37,476 - INFO - Epoch: 153/1000 Client: 1 training loss: 0.1442595
+2025-04-11 10:51:31,133 - INFO - Epoch: 153/1000 Client: 2 training loss: 0.1448414
+2025-04-11 10:52:24,778 - INFO - Epoch: 153/1000 Client: 3 training loss: 0.1447789
+2025-04-11 10:53:17,402 - INFO - Epoch: 153/1000 Client: 4 training loss: 0.1449700
+2025-04-11 10:54:11,042 - INFO - Epoch: 153/1000 Client: 5 training loss: 0.1447349
+2025-04-11 10:54:22,372 - INFO - validate loss: 0.1681673
+2025-04-11 10:54:22,922 - INFO - Best global model saved with validation loss: 0.1681673
+2025-04-11 10:55:16,314 - INFO - Epoch: 154/1000 Client: 1 training loss: 0.1439772
+2025-04-11 10:56:09,858 - INFO - Epoch: 154/1000 Client: 2 training loss: 0.1443994
+2025-04-11 10:57:03,444 - INFO - Epoch: 154/1000 Client: 3 training loss: 0.1444251
+2025-04-11 10:57:56,987 - INFO - Epoch: 154/1000 Client: 4 training loss: 0.1447284
+2025-04-11 10:58:50,513 - INFO - Epoch: 154/1000 Client: 5 training loss: 0.1441864
+2025-04-11 10:59:01,821 - INFO - validate loss: 0.1677901
+2025-04-11 10:59:02,386 - INFO - Best global model saved with validation loss: 0.1677901
+2025-04-11 10:59:55,617 - INFO - Epoch: 155/1000 Client: 1 training loss: 0.1446026
+2025-04-11 11:00:49,060 - INFO - Epoch: 155/1000 Client: 2 training loss: 0.1445868
+2025-04-11 11:01:42,504 - INFO - Epoch: 155/1000 Client: 3 training loss: 0.1446113
+2025-04-11 11:02:34,660 - INFO - Epoch: 155/1000 Client: 4 training loss: 0.1449088
+2025-04-11 11:03:28,243 - INFO - Epoch: 155/1000 Client: 5 training loss: 0.1444606
+2025-04-11 11:03:39,560 - INFO - validate loss: 0.1669498
+2025-04-11 11:03:40,107 - INFO - Best global model saved with validation loss: 0.1669498
+2025-04-11 11:04:33,500 - INFO - Epoch: 156/1000 Client: 1 training loss: 0.1430528
+2025-04-11 11:05:27,085 - INFO - Epoch: 156/1000 Client: 2 training loss: 0.1435077
+2025-04-11 11:06:20,699 - INFO - Epoch: 156/1000 Client: 3 training loss: 0.1440124
+2025-04-11 11:07:14,313 - INFO - Epoch: 156/1000 Client: 4 training loss: 0.1441549
+2025-04-11 11:08:07,911 - INFO - Epoch: 156/1000 Client: 5 training loss: 0.1438617
+2025-04-11 11:08:19,282 - INFO - validate loss: 0.1668887
+2025-04-11 11:08:19,838 - INFO - Best global model saved with validation loss: 0.1668887
+2025-04-11 11:09:13,258 - INFO - Epoch: 157/1000 Client: 1 training loss: 0.1434362
+2025-04-11 11:10:06,870 - INFO - Epoch: 157/1000 Client: 2 training loss: 0.1440496
+2025-04-11 11:11:00,453 - INFO - Epoch: 157/1000 Client: 3 training loss: 0.1439436
+2025-04-11 11:11:54,016 - INFO - Epoch: 157/1000 Client: 4 training loss: 0.1440696
+2025-04-11 11:12:47,539 - INFO - Epoch: 157/1000 Client: 5 training loss: 0.1437950
+2025-04-11 11:12:58,881 - INFO - validate loss: 0.1671908
+2025-04-11 11:13:52,178 - INFO - Epoch: 158/1000 Client: 1 training loss: 0.1437672
+2025-04-11 11:14:45,658 - INFO - Epoch: 158/1000 Client: 2 training loss: 0.1439485
+2025-04-11 11:15:39,191 - INFO - Epoch: 158/1000 Client: 3 training loss: 0.1436955
+2025-04-11 11:16:32,720 - INFO - Epoch: 158/1000 Client: 4 training loss: 0.1439552
+2025-04-11 11:17:26,260 - INFO - Epoch: 158/1000 Client: 5 training loss: 0.1436242
+2025-04-11 11:17:37,701 - INFO - validate loss: 0.1676741
+2025-04-11 11:18:31,036 - INFO - Epoch: 159/1000 Client: 1 training loss: 0.1431110
+2025-04-11 11:19:24,600 - INFO - Epoch: 159/1000 Client: 2 training loss: 0.1437388
+2025-04-11 11:20:18,158 - INFO - Epoch: 159/1000 Client: 3 training loss: 0.1435252
+2025-04-11 11:21:11,754 - INFO - Epoch: 159/1000 Client: 4 training loss: 0.1436561
+2025-04-11 11:22:05,334 - INFO - Epoch: 159/1000 Client: 5 training loss: 0.1432947
+2025-04-11 11:22:16,787 - INFO - validate loss: 0.1673457
+2025-04-11 11:23:10,199 - INFO - Epoch: 160/1000 Client: 1 training loss: 0.1424473
+2025-04-11 11:24:03,830 - INFO - Epoch: 160/1000 Client: 2 training loss: 0.1436366
+2025-04-11 11:24:57,432 - INFO - Epoch: 160/1000 Client: 3 training loss: 0.1434532
+2025-04-11 11:25:51,040 - INFO - Epoch: 160/1000 Client: 4 training loss: 0.1434511
+2025-04-11 11:26:44,679 - INFO - Epoch: 160/1000 Client: 5 training loss: 0.1431968
+2025-04-11 11:26:56,029 - INFO - validate loss: 0.1685130
+2025-04-11 11:27:49,458 - INFO - Epoch: 161/1000 Client: 1 training loss: 0.1428859
+2025-04-11 11:28:43,112 - INFO - Epoch: 161/1000 Client: 2 training loss: 0.1437943
+2025-04-11 11:29:36,740 - INFO - Epoch: 161/1000 Client: 3 training loss: 0.1437835
+2025-04-11 11:30:30,416 - INFO - Epoch: 161/1000 Client: 4 training loss: 0.1436954
+2025-04-11 11:31:24,119 - INFO - Epoch: 161/1000 Client: 5 training loss: 0.1433052
+2025-04-11 11:31:35,517 - INFO - validate loss: 0.1693788
+2025-04-11 11:32:28,995 - INFO - Epoch: 162/1000 Client: 1 training loss: 0.1432798
+2025-04-11 11:33:22,588 - INFO - Epoch: 162/1000 Client: 2 training loss: 0.1435659
+2025-04-11 11:34:16,216 - INFO - Epoch: 162/1000 Client: 3 training loss: 0.1430893
+2025-04-11 11:35:09,830 - INFO - Epoch: 162/1000 Client: 4 training loss: 0.1431725
+2025-04-11 11:36:03,419 - INFO - Epoch: 162/1000 Client: 5 training loss: 0.1427443
+2025-04-11 11:36:15,040 - INFO - validate loss: 0.1713395
+2025-04-11 11:37:08,416 - INFO - Epoch: 163/1000 Client: 1 training loss: 0.1427659
+2025-04-11 11:38:01,839 - INFO - Epoch: 163/1000 Client: 2 training loss: 0.1431457
+2025-04-11 11:38:55,173 - INFO - Epoch: 163/1000 Client: 3 training loss: 0.1432850
+2025-04-11 11:39:48,569 - INFO - Epoch: 163/1000 Client: 4 training loss: 0.1432732
+2025-04-11 11:40:42,028 - INFO - Epoch: 163/1000 Client: 5 training loss: 0.1429125
+2025-04-11 11:40:53,475 - INFO - validate loss: 0.1704804
+2025-04-11 11:41:46,882 - INFO - Epoch: 164/1000 Client: 1 training loss: 0.1434633
+2025-04-11 11:42:40,463 - INFO - Epoch: 164/1000 Client: 2 training loss: 0.1435273
+2025-04-11 11:43:34,089 - INFO - Epoch: 164/1000 Client: 3 training loss: 0.1432897
+2025-04-11 11:44:27,732 - INFO - Epoch: 164/1000 Client: 4 training loss: 0.1431622
+2025-04-11 11:45:21,345 - INFO - Epoch: 164/1000 Client: 5 training loss: 0.1428761
+2025-04-11 11:45:32,801 - INFO - validate loss: 0.1702622
+2025-04-11 11:46:26,245 - INFO - Epoch: 165/1000 Client: 1 training loss: 0.1425839
+2025-04-11 11:47:19,877 - INFO - Epoch: 165/1000 Client: 2 training loss: 0.1430806
+2025-04-11 11:48:13,520 - INFO - Epoch: 165/1000 Client: 3 training loss: 0.1430422
+2025-04-11 11:49:07,160 - INFO - Epoch: 165/1000 Client: 4 training loss: 0.1430486
+2025-04-11 11:50:00,837 - INFO - Epoch: 165/1000 Client: 5 training loss: 0.1426284
+2025-04-11 11:50:12,396 - INFO - validate loss: 0.1708517
+2025-04-11 11:51:04,865 - INFO - Epoch: 166/1000 Client: 1 training loss: 0.1424506
+2025-04-11 11:51:58,510 - INFO - Epoch: 166/1000 Client: 2 training loss: 0.1431481
+2025-04-11 11:52:52,190 - INFO - Epoch: 166/1000 Client: 3 training loss: 0.1427577
+2025-04-11 11:53:45,848 - INFO - Epoch: 166/1000 Client: 4 training loss: 0.1430196
+2025-04-11 11:54:39,506 - INFO - Epoch: 166/1000 Client: 5 training loss: 0.1425783
+2025-04-11 11:54:50,965 - INFO - validate loss: 0.1694727
+2025-04-11 11:55:44,363 - INFO - Epoch: 167/1000 Client: 1 training loss: 0.1424715
+2025-04-11 11:56:37,943 - INFO - Epoch: 167/1000 Client: 2 training loss: 0.1426608
+2025-04-11 11:57:31,516 - INFO - Epoch: 167/1000 Client: 3 training loss: 0.1425935
+2025-04-11 11:58:25,095 - INFO - Epoch: 167/1000 Client: 4 training loss: 0.1425841
+2025-04-11 11:59:18,646 - INFO - Epoch: 167/1000 Client: 5 training loss: 0.1422245
+2025-04-11 11:59:30,041 - INFO - validate loss: 0.1689488
+2025-04-11 12:00:23,443 - INFO - Epoch: 168/1000 Client: 1 training loss: 0.1411026
+2025-04-11 12:01:17,010 - INFO - Epoch: 168/1000 Client: 2 training loss: 0.1417455
+2025-04-11 12:02:10,635 - INFO - Epoch: 168/1000 Client: 3 training loss: 0.1419345
+2025-04-11 12:03:04,212 - INFO - Epoch: 168/1000 Client: 4 training loss: 0.1419597
+2025-04-11 12:03:57,845 - INFO - Epoch: 168/1000 Client: 5 training loss: 0.1417140
+2025-04-11 12:04:09,354 - INFO - validate loss: 0.1682579
+2025-04-11 12:05:02,803 - INFO - Epoch: 169/1000 Client: 1 training loss: 0.1418405
+2025-04-11 12:05:56,441 - INFO - Epoch: 169/1000 Client: 2 training loss: 0.1421327
+2025-04-11 12:06:50,096 - INFO - Epoch: 169/1000 Client: 3 training loss: 0.1421980
+2025-04-11 12:07:43,772 - INFO - Epoch: 169/1000 Client: 4 training loss: 0.1421699
+2025-04-11 12:08:37,422 - INFO - Epoch: 169/1000 Client: 5 training loss: 0.1419535
+2025-04-11 12:08:48,870 - INFO - validate loss: 0.1686773
+2025-04-11 12:09:42,345 - INFO - Epoch: 170/1000 Client: 1 training loss: 0.1414254
+2025-04-11 12:10:35,987 - INFO - Epoch: 170/1000 Client: 2 training loss: 0.1418227
+2025-04-11 12:11:29,695 - INFO - Epoch: 170/1000 Client: 3 training loss: 0.1415158
+2025-04-11 12:12:23,363 - INFO - Epoch: 170/1000 Client: 4 training loss: 0.1416182
+2025-04-11 12:13:17,070 - INFO - Epoch: 170/1000 Client: 5 training loss: 0.1416334
+2025-04-11 12:13:28,501 - INFO - validate loss: 0.1678205
+2025-04-11 12:14:21,995 - INFO - Epoch: 171/1000 Client: 1 training loss: 0.1407641
+2025-04-11 12:15:15,616 - INFO - Epoch: 171/1000 Client: 2 training loss: 0.1415685
+2025-04-11 12:16:09,132 - INFO - Epoch: 171/1000 Client: 3 training loss: 0.1413850
+2025-04-11 12:17:02,563 - INFO - Epoch: 171/1000 Client: 4 training loss: 0.1415050
+2025-04-11 12:17:55,901 - INFO - Epoch: 171/1000 Client: 5 training loss: 0.1411924
+2025-04-11 12:18:07,397 - INFO - validate loss: 0.1679960
+2025-04-11 12:19:00,596 - INFO - Epoch: 172/1000 Client: 1 training loss: 0.1414511
+2025-04-11 12:19:54,179 - INFO - Epoch: 172/1000 Client: 2 training loss: 0.1413955
+2025-04-11 12:20:47,725 - INFO - Epoch: 172/1000 Client: 3 training loss: 0.1411768
+2025-04-11 12:21:41,271 - INFO - Epoch: 172/1000 Client: 4 training loss: 0.1415607
+2025-04-11 12:22:34,842 - INFO - Epoch: 172/1000 Client: 5 training loss: 0.1412972
+2025-04-11 12:22:46,327 - INFO - validate loss: 0.1657106
+2025-04-11 12:22:46,882 - INFO - Best global model saved with validation loss: 0.1657106
+2025-04-11 12:23:40,283 - INFO - Epoch: 173/1000 Client: 1 training loss: 0.1408279
+2025-04-11 12:24:33,861 - INFO - Epoch: 173/1000 Client: 2 training loss: 0.1412710
+2025-04-11 12:25:27,446 - INFO - Epoch: 173/1000 Client: 3 training loss: 0.1412127
+2025-04-11 12:26:21,072 - INFO - Epoch: 173/1000 Client: 4 training loss: 0.1412761
+2025-04-11 12:27:14,681 - INFO - Epoch: 173/1000 Client: 5 training loss: 0.1410404
+2025-04-11 12:27:26,125 - INFO - validate loss: 0.1644540
+2025-04-11 12:27:26,664 - INFO - Best global model saved with validation loss: 0.1644540
+2025-04-11 12:28:20,102 - INFO - Epoch: 174/1000 Client: 1 training loss: 0.1403560
+2025-04-11 12:29:13,732 - INFO - Epoch: 174/1000 Client: 2 training loss: 0.1408468
+2025-04-11 12:30:07,403 - INFO - Epoch: 174/1000 Client: 3 training loss: 0.1408560
+2025-04-11 12:31:01,038 - INFO - Epoch: 174/1000 Client: 4 training loss: 0.1409438
+2025-04-11 12:31:54,686 - INFO - Epoch: 174/1000 Client: 5 training loss: 0.1406439
+2025-04-11 12:32:06,240 - INFO - validate loss: 0.1637028
+2025-04-11 12:32:06,790 - INFO - Best global model saved with validation loss: 0.1637028
+2025-04-11 12:33:00,261 - INFO - Epoch: 175/1000 Client: 1 training loss: 0.1396525
+2025-04-11 12:33:53,955 - INFO - Epoch: 175/1000 Client: 2 training loss: 0.1402263
+2025-04-11 12:34:47,633 - INFO - Epoch: 175/1000 Client: 3 training loss: 0.1401587
+2025-04-11 12:35:41,319 - INFO - Epoch: 175/1000 Client: 4 training loss: 0.1402845
+2025-04-11 12:36:35,012 - INFO - Epoch: 175/1000 Client: 5 training loss: 0.1400609
+2025-04-11 12:36:46,579 - INFO - validate loss: 0.1624800
+2025-04-11 12:36:47,147 - INFO - Best global model saved with validation loss: 0.1624800
+2025-04-11 12:37:40,670 - INFO - Epoch: 176/1000 Client: 1 training loss: 0.1401400
+2025-04-11 12:38:34,391 - INFO - Epoch: 176/1000 Client: 2 training loss: 0.1402145
+2025-04-11 12:39:28,110 - INFO - Epoch: 176/1000 Client: 3 training loss: 0.1402454
+2025-04-11 12:40:21,794 - INFO - Epoch: 176/1000 Client: 4 training loss: 0.1403831
+2025-04-11 12:41:15,496 - INFO - Epoch: 176/1000 Client: 5 training loss: 0.1399913
+2025-04-11 12:41:26,985 - INFO - validate loss: 0.1607115
+2025-04-11 12:41:27,559 - INFO - Best global model saved with validation loss: 0.1607115
+2025-04-11 12:42:21,038 - INFO - Epoch: 177/1000 Client: 1 training loss: 0.1405747
+2025-04-11 12:43:14,641 - INFO - Epoch: 177/1000 Client: 2 training loss: 0.1403925
+2025-04-11 12:44:08,257 - INFO - Epoch: 177/1000 Client: 3 training loss: 0.1402387
+2025-04-11 12:45:01,846 - INFO - Epoch: 177/1000 Client: 4 training loss: 0.1402347
+2025-04-11 12:45:54,464 - INFO - Epoch: 177/1000 Client: 5 training loss: 0.1399003
+2025-04-11 12:46:05,853 - INFO - validate loss: 0.1605690
+2025-04-11 12:46:06,411 - INFO - Best global model saved with validation loss: 0.1605690
+2025-04-11 12:46:59,731 - INFO - Epoch: 178/1000 Client: 1 training loss: 0.1394748
+2025-04-11 12:47:53,249 - INFO - Epoch: 178/1000 Client: 2 training loss: 0.1398915
+2025-04-11 12:48:46,807 - INFO - Epoch: 178/1000 Client: 3 training loss: 0.1398877
+2025-04-11 12:49:40,374 - INFO - Epoch: 178/1000 Client: 4 training loss: 0.1401345
+2025-04-11 12:50:33,959 - INFO - Epoch: 178/1000 Client: 5 training loss: 0.1399006
+2025-04-11 12:50:45,452 - INFO - validate loss: 0.1598068
+2025-04-11 12:50:46,012 - INFO - Best global model saved with validation loss: 0.1598068
+2025-04-11 12:51:39,400 - INFO - Epoch: 179/1000 Client: 1 training loss: 0.1390439
+2025-04-11 12:52:33,024 - INFO - Epoch: 179/1000 Client: 2 training loss: 0.1397887
+2025-04-11 12:53:26,642 - INFO - Epoch: 179/1000 Client: 3 training loss: 0.1395153
+2025-04-11 12:54:20,123 - INFO - Epoch: 179/1000 Client: 4 training loss: 0.1396654
+2025-04-11 12:55:13,565 - INFO - Epoch: 179/1000 Client: 5 training loss: 0.1393715
+2025-04-11 12:55:25,033 - INFO - validate loss: 0.1586121
+2025-04-11 12:55:25,601 - INFO - Best global model saved with validation loss: 0.1586121
+2025-04-11 12:56:18,839 - INFO - Epoch: 180/1000 Client: 1 training loss: 0.1391022
+2025-04-11 12:57:10,999 - INFO - Epoch: 180/1000 Client: 2 training loss: 0.1396353
+2025-04-11 12:58:04,636 - INFO - Epoch: 180/1000 Client: 3 training loss: 0.1396600
+2025-04-11 12:58:58,286 - INFO - Epoch: 180/1000 Client: 4 training loss: 0.1397189
+2025-04-11 12:59:51,963 - INFO - Epoch: 180/1000 Client: 5 training loss: 0.1394966
+2025-04-11 13:00:03,379 - INFO - validate loss: 0.1580687
+2025-04-11 13:00:03,935 - INFO - Best global model saved with validation loss: 0.1580687
+2025-04-11 13:00:57,410 - INFO - Epoch: 181/1000 Client: 1 training loss: 0.1390131
+2025-04-11 13:01:51,102 - INFO - Epoch: 181/1000 Client: 2 training loss: 0.1395534
+2025-04-11 13:02:44,787 - INFO - Epoch: 181/1000 Client: 3 training loss: 0.1392150
+2025-04-11 13:03:38,475 - INFO - Epoch: 181/1000 Client: 4 training loss: 0.1394456
+2025-04-11 13:04:32,185 - INFO - Epoch: 181/1000 Client: 5 training loss: 0.1392535
+2025-04-11 13:04:43,592 - INFO - validate loss: 0.1571263
+2025-04-11 13:04:44,153 - INFO - Best global model saved with validation loss: 0.1571263
+2025-04-11 13:05:37,602 - INFO - Epoch: 182/1000 Client: 1 training loss: 0.1386533
+2025-04-11 13:06:31,238 - INFO - Epoch: 182/1000 Client: 2 training loss: 0.1390968
+2025-04-11 13:07:24,876 - INFO - Epoch: 182/1000 Client: 3 training loss: 0.1387855
+2025-04-11 13:08:18,477 - INFO - Epoch: 182/1000 Client: 4 training loss: 0.1389059
+2025-04-11 13:09:12,044 - INFO - Epoch: 182/1000 Client: 5 training loss: 0.1386382
+2025-04-11 13:09:23,626 - INFO - validate loss: 0.1571891
+2025-04-11 13:10:17,012 - INFO - Epoch: 183/1000 Client: 1 training loss: 0.1395419
+2025-04-11 13:11:10,581 - INFO - Epoch: 183/1000 Client: 2 training loss: 0.1394812
+2025-04-11 13:12:04,108 - INFO - Epoch: 183/1000 Client: 3 training loss: 0.1393373
+2025-04-11 13:12:57,698 - INFO - Epoch: 183/1000 Client: 4 training loss: 0.1393963
+2025-04-11 13:13:51,295 - INFO - Epoch: 183/1000 Client: 5 training loss: 0.1389173
+2025-04-11 13:14:02,841 - INFO - validate loss: 0.1576790
+2025-04-11 13:14:56,403 - INFO - Epoch: 184/1000 Client: 1 training loss: 0.1385831
+2025-04-11 13:15:50,024 - INFO - Epoch: 184/1000 Client: 2 training loss: 0.1390711
+2025-04-11 13:16:43,672 - INFO - Epoch: 184/1000 Client: 3 training loss: 0.1390749
+2025-04-11 13:17:37,297 - INFO - Epoch: 184/1000 Client: 4 training loss: 0.1391976
+2025-04-11 13:18:30,953 - INFO - Epoch: 184/1000 Client: 5 training loss: 0.1387305
+2025-04-11 13:18:42,424 - INFO - validate loss: 0.1584124
+2025-04-11 13:19:35,866 - INFO - Epoch: 185/1000 Client: 1 training loss: 0.1383648
+2025-04-11 13:20:29,532 - INFO - Epoch: 185/1000 Client: 2 training loss: 0.1386632
+2025-04-11 13:21:23,177 - INFO - Epoch: 185/1000 Client: 3 training loss: 0.1384692
+2025-04-11 13:22:16,853 - INFO - Epoch: 185/1000 Client: 4 training loss: 0.1384536
+2025-04-11 13:23:10,536 - INFO - Epoch: 185/1000 Client: 5 training loss: 0.1382635
+2025-04-11 13:23:22,039 - INFO - validate loss: 0.1593917
+2025-04-11 13:24:15,495 - INFO - Epoch: 186/1000 Client: 1 training loss: 0.1382575
+2025-04-11 13:25:09,172 - INFO - Epoch: 186/1000 Client: 2 training loss: 0.1388587
+2025-04-11 13:26:02,867 - INFO - Epoch: 186/1000 Client: 3 training loss: 0.1385418
+2025-04-11 13:26:56,558 - INFO - Epoch: 186/1000 Client: 4 training loss: 0.1389239
+2025-04-11 13:27:50,244 - INFO - Epoch: 186/1000 Client: 5 training loss: 0.1385632
+2025-04-11 13:28:01,725 - INFO - validate loss: 0.1590044
+2025-04-11 13:28:55,234 - INFO - Epoch: 187/1000 Client: 1 training loss: 0.1378532
+2025-04-11 13:29:48,921 - INFO - Epoch: 187/1000 Client: 2 training loss: 0.1384601
+2025-04-11 13:30:42,608 - INFO - Epoch: 187/1000 Client: 3 training loss: 0.1383413
+2025-04-11 13:31:36,265 - INFO - Epoch: 187/1000 Client: 4 training loss: 0.1384814
+2025-04-11 13:32:29,806 - INFO - Epoch: 187/1000 Client: 5 training loss: 0.1381629
+2025-04-11 13:32:41,308 - INFO - validate loss: 0.1595993
+2025-04-11 13:33:34,547 - INFO - Epoch: 188/1000 Client: 1 training loss: 0.1381924
+2025-04-11 13:34:27,929 - INFO - Epoch: 188/1000 Client: 2 training loss: 0.1386141
+2025-04-11 13:35:20,013 - INFO - Epoch: 188/1000 Client: 3 training loss: 0.1381515
+2025-04-11 13:36:13,543 - INFO - Epoch: 188/1000 Client: 4 training loss: 0.1384038
+2025-04-11 13:37:07,157 - INFO - Epoch: 188/1000 Client: 5 training loss: 0.1381044
+2025-04-11 13:37:18,669 - INFO - validate loss: 0.1592550
+2025-04-11 13:38:12,091 - INFO - Epoch: 189/1000 Client: 1 training loss: 0.1377829
+2025-04-11 13:39:05,715 - INFO - Epoch: 189/1000 Client: 2 training loss: 0.1382507
+2025-04-11 13:39:59,696 - INFO - Epoch: 189/1000 Client: 3 training loss: 0.1382032
+2025-04-11 13:40:53,624 - INFO - Epoch: 189/1000 Client: 4 training loss: 0.1382184
+2025-04-11 13:41:47,573 - INFO - Epoch: 189/1000 Client: 5 training loss: 0.1379598
+2025-04-11 13:42:00,436 - INFO - validate loss: 0.1601448
+2025-04-11 13:42:54,296 - INFO - Epoch: 190/1000 Client: 1 training loss: 0.1374953
+2025-04-11 13:43:48,299 - INFO - Epoch: 190/1000 Client: 2 training loss: 0.1379361
+2025-04-11 13:44:41,036 - INFO - Epoch: 190/1000 Client: 3 training loss: 0.1377129
+2025-04-11 13:45:35,099 - INFO - Epoch: 190/1000 Client: 4 training loss: 0.1378681
+2025-04-11 13:46:29,085 - INFO - Epoch: 190/1000 Client: 5 training loss: 0.1375663
+2025-04-11 13:46:41,713 - INFO - validate loss: 0.1604864
+2025-04-11 13:47:35,571 - INFO - Epoch: 191/1000 Client: 1 training loss: 0.1384402
+2025-04-11 13:48:29,577 - INFO - Epoch: 191/1000 Client: 2 training loss: 0.1382607
+2025-04-11 13:49:23,555 - INFO - Epoch: 191/1000 Client: 3 training loss: 0.1379185
+2025-04-11 13:50:17,510 - INFO - Epoch: 191/1000 Client: 4 training loss: 0.1380402
+2025-04-11 13:51:11,528 - INFO - Epoch: 191/1000 Client: 5 training loss: 0.1377830
+2025-04-11 13:51:24,627 - INFO - validate loss: 0.1607566
+2025-04-11 13:52:18,419 - INFO - Epoch: 192/1000 Client: 1 training loss: 0.1369094
+2025-04-11 13:53:12,312 - INFO - Epoch: 192/1000 Client: 2 training loss: 0.1376590
+2025-04-11 13:54:06,231 - INFO - Epoch: 192/1000 Client: 3 training loss: 0.1376945
+2025-04-11 13:55:00,101 - INFO - Epoch: 192/1000 Client: 4 training loss: 0.1378630
+2025-04-11 13:55:53,946 - INFO - Epoch: 192/1000 Client: 5 training loss: 0.1375861
+2025-04-11 13:56:06,913 - INFO - validate loss: 0.1597005
+2025-04-11 13:57:00,536 - INFO - Epoch: 193/1000 Client: 1 training loss: 0.1375653
+2025-04-11 13:57:54,380 - INFO - Epoch: 193/1000 Client: 2 training loss: 0.1384646
+2025-04-11 13:58:48,220 - INFO - Epoch: 193/1000 Client: 3 training loss: 0.1381965
+2025-04-11 13:59:42,076 - INFO - Epoch: 193/1000 Client: 4 training loss: 0.1381098
+2025-04-11 14:00:35,993 - INFO - Epoch: 193/1000 Client: 5 training loss: 0.1377694
+2025-04-11 14:00:48,880 - INFO - validate loss: 0.1595308
+2025-04-11 14:01:42,787 - INFO - Epoch: 194/1000 Client: 1 training loss: 0.1368110
+2025-04-11 14:02:36,739 - INFO - Epoch: 194/1000 Client: 2 training loss: 0.1377852
+2025-04-11 14:03:30,727 - INFO - Epoch: 194/1000 Client: 3 training loss: 0.1376335
+2025-04-11 14:04:24,756 - INFO - Epoch: 194/1000 Client: 4 training loss: 0.1379491
+2025-04-11 14:05:18,718 - INFO - Epoch: 194/1000 Client: 5 training loss: 0.1376204
+2025-04-11 14:05:31,461 - INFO - validate loss: 0.1590721
+2025-04-11 14:06:25,326 - INFO - Epoch: 195/1000 Client: 1 training loss: 0.1368306
+2025-04-11 14:07:19,329 - INFO - Epoch: 195/1000 Client: 2 training loss: 0.1372891
+2025-04-11 14:08:13,308 - INFO - Epoch: 195/1000 Client: 3 training loss: 0.1372390
+2025-04-11 14:09:07,396 - INFO - Epoch: 195/1000 Client: 4 training loss: 0.1374740
+2025-04-11 14:10:01,386 - INFO - Epoch: 195/1000 Client: 5 training loss: 0.1371773
+2025-04-11 14:10:14,275 - INFO - validate loss: 0.1582495
+2025-04-11 14:11:07,473 - INFO - Epoch: 196/1000 Client: 1 training loss: 0.1364329
+2025-04-11 14:12:00,647 - INFO - Epoch: 196/1000 Client: 2 training loss: 0.1368097
+2025-04-11 14:12:53,773 - INFO - Epoch: 196/1000 Client: 3 training loss: 0.1368284
+2025-04-11 14:13:45,768 - INFO - Epoch: 196/1000 Client: 4 training loss: 0.1370631
+2025-04-11 14:14:39,590 - INFO - Epoch: 196/1000 Client: 5 training loss: 0.1367413
+2025-04-11 14:14:52,527 - INFO - validate loss: 0.1580569
+2025-04-11 14:15:46,190 - INFO - Epoch: 197/1000 Client: 1 training loss: 0.1364636
+2025-04-11 14:16:40,005 - INFO - Epoch: 197/1000 Client: 2 training loss: 0.1369325
+2025-04-11 14:17:33,910 - INFO - Epoch: 197/1000 Client: 3 training loss: 0.1368859
+2025-04-11 14:18:27,841 - INFO - Epoch: 197/1000 Client: 4 training loss: 0.1371435
+2025-04-11 14:19:21,821 - INFO - Epoch: 197/1000 Client: 5 training loss: 0.1367819
+2025-04-11 14:19:34,670 - INFO - validate loss: 0.1590157
+2025-04-11 14:20:28,339 - INFO - Epoch: 198/1000 Client: 1 training loss: 0.1368947
+2025-04-11 14:21:22,260 - INFO - Epoch: 198/1000 Client: 2 training loss: 0.1372039
+2025-04-11 14:22:16,151 - INFO - Epoch: 198/1000 Client: 3 training loss: 0.1369348
+2025-04-11 14:23:10,073 - INFO - Epoch: 198/1000 Client: 4 training loss: 0.1372043
+2025-04-11 14:24:03,978 - INFO - Epoch: 198/1000 Client: 5 training loss: 0.1369004
+2025-04-11 14:24:16,396 - INFO - validate loss: 0.1590691
+2025-04-11 14:25:10,185 - INFO - Epoch: 199/1000 Client: 1 training loss: 0.1369080
+2025-04-11 14:26:04,210 - INFO - Epoch: 199/1000 Client: 2 training loss: 0.1373318
+2025-04-11 14:26:58,267 - INFO - Epoch: 199/1000 Client: 3 training loss: 0.1371760
+2025-04-11 14:27:52,332 - INFO - Epoch: 199/1000 Client: 4 training loss: 0.1369934
+2025-04-11 14:28:46,304 - INFO - Epoch: 199/1000 Client: 5 training loss: 0.1367080
+2025-04-11 14:28:59,177 - INFO - validate loss: 0.1589059
+2025-04-11 14:29:53,058 - INFO - Epoch: 200/1000 Client: 1 training loss: 0.1370703
+2025-04-11 14:30:47,039 - INFO - Epoch: 200/1000 Client: 2 training loss: 0.1367949
+2025-04-11 14:31:41,054 - INFO - Epoch: 200/1000 Client: 3 training loss: 0.1365331
+2025-04-11 14:32:34,991 - INFO - Epoch: 200/1000 Client: 4 training loss: 0.1365913
+2025-04-11 14:33:28,960 - INFO - Epoch: 200/1000 Client: 5 training loss: 0.1365690
+2025-04-11 14:33:41,753 - INFO - validate loss: 0.1589031
+2025-04-11 14:34:35,478 - INFO - Epoch: 201/1000 Client: 1 training loss: 0.1359033
+2025-04-11 14:35:29,353 - INFO - Epoch: 201/1000 Client: 2 training loss: 0.1367881
+2025-04-11 14:36:23,209 - INFO - Epoch: 201/1000 Client: 3 training loss: 0.1364607
+2025-04-11 14:37:17,081 - INFO - Epoch: 201/1000 Client: 4 training loss: 0.1366649
+2025-04-11 14:38:11,002 - INFO - Epoch: 201/1000 Client: 5 training loss: 0.1364502
+2025-04-11 14:38:23,614 - INFO - validate loss: 0.1589324
+2025-04-11 14:39:16,092 - INFO - Epoch: 202/1000 Client: 1 training loss: 0.1363431
+2025-04-11 14:40:09,930 - INFO - Epoch: 202/1000 Client: 2 training loss: 0.1369301
+2025-04-11 14:41:03,821 - INFO - Epoch: 202/1000 Client: 3 training loss: 0.1365943
+2025-04-11 14:41:57,703 - INFO - Epoch: 202/1000 Client: 4 training loss: 0.1365194
+2025-04-11 14:42:51,591 - INFO - Epoch: 202/1000 Client: 5 training loss: 0.1363245
+2025-04-11 14:43:04,385 - INFO - validate loss: 0.1591006
+2025-04-11 14:43:57,930 - INFO - Epoch: 203/1000 Client: 1 training loss: 0.1356796
+2025-04-11 14:44:51,651 - INFO - Epoch: 203/1000 Client: 2 training loss: 0.1365357
+2025-04-11 14:45:45,259 - INFO - Epoch: 203/1000 Client: 3 training loss: 0.1364096
+2025-04-11 14:46:38,845 - INFO - Epoch: 203/1000 Client: 4 training loss: 0.1364583
+2025-04-11 14:47:32,483 - INFO - Epoch: 203/1000 Client: 5 training loss: 0.1361997
+2025-04-11 14:47:44,088 - INFO - validate loss: 0.1589634
+2025-04-11 14:48:37,365 - INFO - Epoch: 204/1000 Client: 1 training loss: 0.1358657
+2025-04-11 14:49:30,782 - INFO - Epoch: 204/1000 Client: 2 training loss: 0.1362351
+2025-04-11 14:50:24,111 - INFO - Epoch: 204/1000 Client: 3 training loss: 0.1359469
+2025-04-11 14:51:17,483 - INFO - Epoch: 204/1000 Client: 4 training loss: 0.1361129

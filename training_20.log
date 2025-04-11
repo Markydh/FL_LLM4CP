@@ -1,0 +1,737 @@
+总参数量: 82.87216M
+可训练的参数量: 1.76598M
+Start training...
+Epoch: 1/500 training loss: 0.7108335
+validate loss: 0.3085012
+Best model saved with validation loss: 0.3085012
+Epoch: 2/500 training loss: 0.2533516
+validate loss: 0.2067514
+Best model saved with validation loss: 0.2067514
+Epoch: 3/500 training loss: 0.1978836
+validate loss: 0.1799994
+Best model saved with validation loss: 0.1799994
+Epoch: 4/500 training loss: 0.1781174
+validate loss: 0.1616807
+Best model saved with validation loss: 0.1616807
+Epoch: 5/500 training loss: 0.1667713
+validate loss: 0.1583968
+Best model saved with validation loss: 0.1583968
+Epoch: 6/500 training loss: 0.1594899
+validate loss: 0.1540602
+Best model saved with validation loss: 0.1540602
+Epoch: 7/500 training loss: 0.1560332
+validate loss: 0.1512373
+Best model saved with validation loss: 0.1512373
+Epoch: 8/500 training loss: 0.1517232
+validate loss: 0.1491097
+Best model saved with validation loss: 0.1491097
+Epoch: 9/500 training loss: 0.1498108
+validate loss: 0.1522609
+Epoch: 10/500 training loss: 0.1475118
+validate loss: 0.1436003
+Best model saved with validation loss: 0.1436003
+Epoch: 11/500 training loss: 0.1463731
+validate loss: 0.1420328
+Best model saved with validation loss: 0.1420328
+Epoch: 12/500 training loss: 0.1449362
+validate loss: 0.1411498
+Best model saved with validation loss: 0.1411498
+Epoch: 13/500 training loss: 0.1428145
+validate loss: 0.1428114
+Epoch: 14/500 training loss: 0.1438578
+validate loss: 0.1402144
+Best model saved with validation loss: 0.1402144
+Epoch: 15/500 training loss: 0.1424542
+validate loss: 0.1393388
+Best model saved with validation loss: 0.1393388
+Epoch: 16/500 training loss: 0.1397637
+validate loss: 0.1401887
+Epoch: 17/500 training loss: 0.1396354
+validate loss: 0.1422445
+Epoch: 18/500 training loss: 0.1394420
+validate loss: 0.1358461
+Best model saved with validation loss: 0.1358461
+Epoch: 19/500 training loss: 0.1397354
+validate loss: 0.1389894
+Epoch: 20/500 training loss: 0.1375073
+validate loss: 0.1339341
+Best model saved with validation loss: 0.1339341
+Epoch: 21/500 training loss: 0.1365050
+validate loss: 0.1352831
+Epoch: 22/500 training loss: 0.1368551
+validate loss: 0.1353024
+Epoch: 23/500 training loss: 0.1358200
+validate loss: 0.1347282
+Epoch: 24/500 training loss: 0.1352384
+validate loss: 0.1347343
+Epoch: 25/500 training loss: 0.1349469
+validate loss: 0.1345257
+Epoch: 26/500 training loss: 0.1348250
+validate loss: 0.1358008
+Epoch: 27/500 training loss: 0.1345331
+validate loss: 0.1329965
+Best model saved with validation loss: 0.1329965
+Epoch: 28/500 training loss: 0.1340169
+validate loss: 0.1319569
+Best model saved with validation loss: 0.1319569
+Epoch: 29/500 training loss: 0.1336983
+validate loss: 0.1333588
+Epoch: 30/500 training loss: 0.1337934
+validate loss: 0.1312449
+Best model saved with validation loss: 0.1312449
+Epoch: 31/500 training loss: 0.1321386
+validate loss: 0.1301925
+Best model saved with validation loss: 0.1301925
+Epoch: 32/500 training loss: 0.1325477
+validate loss: 0.1321207
+Epoch: 33/500 training loss: 0.1326186
+validate loss: 0.1285530
+Best model saved with validation loss: 0.1285530
+Epoch: 34/500 training loss: 0.1320032
+validate loss: 0.1308580
+Epoch: 35/500 training loss: 0.1317705
+validate loss: 0.1286133
+Epoch: 36/500 training loss: 0.1312388
+validate loss: 0.1293823
+Epoch: 37/500 training loss: 0.1309880
+validate loss: 0.1292575
+Epoch: 38/500 training loss: 0.1311366
+validate loss: 0.1298398
+Epoch: 39/500 training loss: 0.1310527
+validate loss: 0.1297836
+Epoch: 40/500 training loss: 0.1314400
+validate loss: 0.1288271
+Epoch: 41/500 training loss: 0.1301977
+validate loss: 0.1277536
+Best model saved with validation loss: 0.1277536
+Epoch: 42/500 training loss: 0.1302323
+validate loss: 0.1310927
+Epoch: 43/500 training loss: 0.1306600
+validate loss: 0.1264989
+Best model saved with validation loss: 0.1264989
+Epoch: 44/500 training loss: 0.1294827
+validate loss: 0.1282258
+Epoch: 45/500 training loss: 0.1285991
+validate loss: 0.1261598
+Best model saved with validation loss: 0.1261598
+Epoch: 46/500 training loss: 0.1301025
+validate loss: 0.1274210
+Epoch: 47/500 training loss: 0.1291966
+validate loss: 0.1304659
+Epoch: 48/500 training loss: 0.1298598
+validate loss: 0.1258995
+Best model saved with validation loss: 0.1258995
+Epoch: 49/500 training loss: 0.1288432
+validate loss: 0.1265334
+Epoch: 50/500 training loss: 0.1283706
+validate loss: 0.1288744
+Epoch: 51/500 training loss: 0.1291454
+validate loss: 0.1315439
+Epoch: 52/500 training loss: 0.1298558
+validate loss: 0.1292895
+Epoch: 53/500 training loss: 0.1291312
+validate loss: 0.1266381
+Epoch: 54/500 training loss: 0.1289736
+validate loss: 0.1289933
+Epoch: 55/500 training loss: 0.1276422
+validate loss: 0.1259636
+Epoch: 56/500 training loss: 0.1279456
+validate loss: 0.1296869
+Epoch: 57/500 training loss: 0.1281610
+validate loss: 0.1257787
+Best model saved with validation loss: 0.1257787
+Epoch: 58/500 training loss: 0.1279758
+validate loss: 0.1259056
+Epoch: 59/500 training loss: 0.1277007
+validate loss: 0.1273373
+Epoch: 60/500 training loss: 0.1270806
+validate loss: 0.1242325
+Best model saved with validation loss: 0.1242325
+Epoch: 61/500 training loss: 0.1277293
+validate loss: 0.1254492
+Epoch: 62/500 training loss: 0.1272501
+validate loss: 0.1282592
+Epoch: 63/500 training loss: 0.1275797
+validate loss: 0.1244535
+Epoch: 64/500 training loss: 0.1270170
+validate loss: 0.1246899
+Epoch: 65/500 training loss: 0.1278681
+validate loss: 0.1277604
+Epoch: 66/500 training loss: 0.1271146
+validate loss: 0.1292069
+Epoch: 67/500 training loss: 0.1271939
+validate loss: 0.1252510
+Epoch: 68/500 training loss: 0.1268238
+validate loss: 0.1230567
+Best model saved with validation loss: 0.1230567
+Epoch: 69/500 training loss: 0.1264878
+validate loss: 0.1263637
+Epoch: 70/500 training loss: 0.1274954
+validate loss: 0.1249177
+Epoch: 71/500 training loss: 0.1257661
+validate loss: 0.1253349
+Epoch: 72/500 training loss: 0.1256891
+validate loss: 0.1263196
+Epoch: 73/500 training loss: 0.1255998
+validate loss: 0.1265621
+Epoch: 74/500 training loss: 0.1268588
+validate loss: 0.1237675
+Epoch: 75/500 training loss: 0.1258217
+validate loss: 0.1245681
+Epoch: 76/500 training loss: 0.1253065
+validate loss: 0.1246453
+Epoch: 77/500 training loss: 0.1255001
+validate loss: 0.1263621
+Epoch: 78/500 training loss: 0.1269135
+validate loss: 0.1264797
+Epoch: 79/500 training loss: 0.1251758
+validate loss: 0.1250937
+Epoch: 80/500 training loss: 0.1249372
+validate loss: 0.1232120
+Epoch: 81/500 training loss: 0.1250296
+validate loss: 0.1240374
+Epoch: 82/500 training loss: 0.1251473
+validate loss: 0.1235250
+Epoch: 83/500 training loss: 0.1248789
+validate loss: 0.1249039
+Epoch: 84/500 training loss: 0.1245171
+validate loss: 0.1240045
+Epoch: 85/500 training loss: 0.1242868
+validate loss: 0.1265406
+Epoch: 86/500 training loss: 0.1247140
+validate loss: 0.1227882
+Best model saved with validation loss: 0.1227882
+Epoch: 87/500 training loss: 0.1249182
+validate loss: 0.1227421
+Best model saved with validation loss: 0.1227421
+Epoch: 88/500 training loss: 0.1243976
+validate loss: 0.1260631
+Epoch: 89/500 training loss: 0.1240817
+validate loss: 0.1244674
+Epoch: 90/500 training loss: 0.1253516
+validate loss: 0.1260287
+Epoch: 91/500 training loss: 0.1260496
+validate loss: 0.1248240
+Epoch: 92/500 training loss: 0.1258167
+validate loss: 0.1236058
+Epoch: 93/500 training loss: 0.1239443
+validate loss: 0.1237148
+Epoch: 94/500 training loss: 0.1241805
+validate loss: 0.1244154
+Epoch: 95/500 training loss: 0.1240623
+validate loss: 0.1225337
+Best model saved with validation loss: 0.1225337
+Epoch: 96/500 training loss: 0.1236822
+validate loss: 0.1215168
+Best model saved with validation loss: 0.1215168
+Epoch: 97/500 training loss: 0.1241637
+validate loss: 0.1218623
+Epoch: 98/500 training loss: 0.1238343
+validate loss: 0.1252417
+Epoch: 99/500 training loss: 0.1235941
+validate loss: 0.1241318
+Epoch: 100/500 training loss: 0.1233939
+validate loss: 0.1240466
+Epoch: 101/500 training loss: 0.1243908
+validate loss: 0.1232723
+Epoch: 102/500 training loss: 0.1237443
+validate loss: 0.1224412
+Epoch: 103/500 training loss: 0.1231745
+validate loss: 0.1222261
+Epoch: 104/500 training loss: 0.1232227
+validate loss: 0.1249092
+Epoch: 105/500 training loss: 0.1235580
+validate loss: 0.1236422
+Epoch: 106/500 training loss: 0.1234005
+validate loss: 0.1214519
+Best model saved with validation loss: 0.1214519
+Epoch: 107/500 training loss: 0.1227281
+validate loss: 0.1221390
+Epoch: 108/500 training loss: 0.1241593
+validate loss: 0.1256768
+Epoch: 109/500 training loss: 0.1239683
+validate loss: 0.1234028
+Epoch: 110/500 training loss: 0.1231949
+validate loss: 0.1212244
+Best model saved with validation loss: 0.1212244
+Epoch: 111/500 training loss: 0.1229435
+validate loss: 0.1221613
+Epoch: 112/500 training loss: 0.1228383
+validate loss: 0.1246520
+Epoch: 113/500 training loss: 0.1231278
+validate loss: 0.1223908
+Epoch: 114/500 training loss: 0.1225187
+validate loss: 0.1224541
+Epoch: 115/500 training loss: 0.1230245
+validate loss: 0.1212974
+Epoch: 116/500 training loss: 0.1224699
+validate loss: 0.1220133
+Epoch: 117/500 training loss: 0.1237724
+validate loss: 0.1228132
+Epoch: 118/500 training loss: 0.1245442
+validate loss: 0.1211110
+Best model saved with validation loss: 0.1211110
+Epoch: 119/500 training loss: 0.1230792
+validate loss: 0.1223712
+Epoch: 120/500 training loss: 0.1227633
+validate loss: 0.1222291
+Epoch: 121/500 training loss: 0.1225632
+validate loss: 0.1245846
+Epoch: 122/500 training loss: 0.1227702
+validate loss: 0.1214126
+Epoch: 123/500 training loss: 0.1221328
+validate loss: 0.1231720
+Epoch: 124/500 training loss: 0.1222601
+validate loss: 0.1229741
+Epoch: 125/500 training loss: 0.1227859
+validate loss: 0.1232795
+Epoch: 126/500 training loss: 0.1222939
+validate loss: 0.1216253
+Epoch: 127/500 training loss: 0.1219576
+validate loss: 0.1213564
+Epoch: 128/500 training loss: 0.1224282
+validate loss: 0.1225241
+Epoch: 129/500 training loss: 0.1229051
+validate loss: 0.1212449
+Epoch: 130/500 training loss: 0.1223432
+validate loss: 0.1210690
+Best model saved with validation loss: 0.1210690
+Epoch: 131/500 training loss: 0.1230395
+validate loss: 0.1236628
+Epoch: 132/500 training loss: 0.1227670
+validate loss: 0.1217365
+Epoch: 133/500 training loss: 0.1222412
+validate loss: 0.1216958
+Epoch: 134/500 training loss: 0.1221670
+validate loss: 0.1222574
+Epoch: 135/500 training loss: 0.1222484
+validate loss: 0.1220047
+Epoch: 136/500 training loss: 0.1220532
+validate loss: 0.1241626
+Epoch: 137/500 training loss: 0.1221539
+validate loss: 0.1229136
+Epoch: 138/500 training loss: 0.1219781
+validate loss: 0.1207497
+Best model saved with validation loss: 0.1207497
+Epoch: 139/500 training loss: 0.1229860
+validate loss: 0.1266863
+Epoch: 140/500 training loss: 0.1222711
+validate loss: 0.1209289
+Epoch: 141/500 training loss: 0.1225341
+validate loss: 0.1221480
+Epoch: 142/500 training loss: 0.1215507
+validate loss: 0.1225248
+Epoch: 143/500 training loss: 0.1218653
+validate loss: 0.1218332
+Epoch: 144/500 training loss: 0.1221530
+validate loss: 0.1233774
+Epoch: 145/500 training loss: 0.1216651
+validate loss: 0.1212448
+Epoch: 146/500 training loss: 0.1218930
+validate loss: 0.1218901
+Epoch: 147/500 training loss: 0.1225036
+validate loss: 0.1234237
+Epoch: 148/500 training loss: 0.1213242
+validate loss: 0.1224403
+Epoch: 149/500 training loss: 0.1213012
+validate loss: 0.1219879
+Epoch: 150/500 training loss: 0.1216239
+validate loss: 0.1206785
+Best model saved with validation loss: 0.1206785
+Epoch: 151/500 training loss: 0.1220680
+validate loss: 0.1221718
+Epoch: 152/500 training loss: 0.1216863
+validate loss: 0.1220940
+Epoch: 153/500 training loss: 0.1214958
+validate loss: 0.1222227
+Epoch: 154/500 training loss: 0.1217217
+validate loss: 0.1215504
+Epoch: 155/500 training loss: 0.1215605
+validate loss: 0.1217817
+Epoch: 156/500 training loss: 0.1219189
+validate loss: 0.1206047
+Best model saved with validation loss: 0.1206047
+Epoch: 157/500 training loss: 0.1215131
+validate loss: 0.1216461
+Epoch: 158/500 training loss: 0.1218715
+validate loss: 0.1213805
+Epoch: 159/500 training loss: 0.1220612
+validate loss: 0.1205164
+Best model saved with validation loss: 0.1205164
+Epoch: 160/500 training loss: 0.1211661
+validate loss: 0.1236699
+Epoch: 161/500 training loss: 0.1216128
+validate loss: 0.1212673
+Epoch: 162/500 training loss: 0.1213000
+validate loss: 0.1220313
+Epoch: 163/500 training loss: 0.1212715
+validate loss: 0.1226387
+Epoch: 164/500 training loss: 0.1209736
+validate loss: 0.1200493
+Best model saved with validation loss: 0.1200493
+Epoch: 165/500 training loss: 0.1216013
+validate loss: 0.1216992
+Epoch: 166/500 training loss: 0.1212338
+validate loss: 0.1208423
+Epoch: 167/500 training loss: 0.1210769
+validate loss: 0.1237612
+Epoch: 168/500 training loss: 0.1211490
+validate loss: 0.1218398
+Epoch: 169/500 training loss: 0.1212807
+validate loss: 0.1217397
+Epoch: 170/500 training loss: 0.1213693
+validate loss: 0.1209352
+Epoch: 171/500 training loss: 0.1217206
+validate loss: 0.1213864
+Epoch: 172/500 training loss: 0.1210369
+validate loss: 0.1227854
+Epoch: 173/500 training loss: 0.1209951
+validate loss: 0.1230548
+Epoch: 174/500 training loss: 0.1220348
+validate loss: 0.1237465
+Epoch: 175/500 training loss: 0.1211632
+validate loss: 0.1232698
+Epoch: 176/500 training loss: 0.1211245
+validate loss: 0.1216199
+Epoch: 177/500 training loss: 0.1209824
+validate loss: 0.1208840
+Epoch: 178/500 training loss: 0.1214351
+validate loss: 0.1205652
+Epoch: 179/500 training loss: 0.1219070
+validate loss: 0.1213120
+Epoch: 180/500 training loss: 0.1214860
+validate loss: 0.1212483
+Epoch: 181/500 training loss: 0.1211032
+validate loss: 0.1224136
+Epoch: 182/500 training loss: 0.1206386
+validate loss: 0.1218019
+Epoch: 183/500 training loss: 0.1204382
+validate loss: 0.1203190
+Epoch: 184/500 training loss: 0.1207103
+validate loss: 0.1223091
+Epoch: 185/500 training loss: 0.1211918
+validate loss: 0.1227454
+Epoch: 186/500 training loss: 0.1212468
+validate loss: 0.1212778
+Epoch: 187/500 training loss: 0.1209868
+validate loss: 0.1211061
+Epoch: 188/500 training loss: 0.1217396
+validate loss: 0.1214475
+Epoch: 189/500 training loss: 0.1203019
+validate loss: 0.1206768
+Epoch: 190/500 training loss: 0.1204445
+validate loss: 0.1210124
+Epoch: 191/500 training loss: 0.1210873
+validate loss: 0.1251851
+Epoch: 192/500 training loss: 0.1214654
+validate loss: 0.1210094
+Epoch: 193/500 training loss: 0.1204449
+validate loss: 0.1218439
+Epoch: 194/500 training loss: 0.1230862
+validate loss: 0.1208759
+Epoch: 195/500 training loss: 0.1220128
+validate loss: 0.1214488
+Epoch: 196/500 training loss: 0.1209873
+validate loss: 0.1214198
+Epoch: 197/500 training loss: 0.1203542
+validate loss: 0.1208557
+Epoch: 198/500 training loss: 0.1206857
+validate loss: 0.1217917
+Epoch: 199/500 training loss: 0.1204687
+validate loss: 0.1214880
+Epoch: 200/500 training loss: 0.1205129
+validate loss: 0.1214005
+Epoch: 201/500 training loss: 0.1203985
+validate loss: 0.1214208
+Epoch: 202/500 training loss: 0.1203728
+validate loss: 0.1209618
+Epoch: 203/500 training loss: 0.1204470
+validate loss: 0.1234051
+Epoch: 204/500 training loss: 0.1213441
+validate loss: 0.1216697
+Epoch: 205/500 training loss: 0.1211124
+validate loss: 0.1210137
+Epoch: 206/500 training loss: 0.1201999
+validate loss: 0.1213299
+Epoch: 207/500 training loss: 0.1205923
+validate loss: 0.1220124
+Epoch: 208/500 training loss: 0.1216016
+validate loss: 0.1221852
+Epoch: 209/500 training loss: 0.1208539
+validate loss: 0.1202040
+Epoch: 210/500 training loss: 0.1205303
+validate loss: 0.1219240
+Epoch: 211/500 training loss: 0.1202185
+validate loss: 0.1220909
+Epoch: 212/500 training loss: 0.1202421
+validate loss: 0.1208425
+Epoch: 213/500 training loss: 0.1205263
+validate loss: 0.1220504
+Epoch: 214/500 training loss: 0.1205451
+validate loss: 0.1219860
+Epoch: 215/500 training loss: 0.1205682
+validate loss: 0.1217155
+Epoch: 216/500 training loss: 0.1204288
+validate loss: 0.1216012
+Epoch: 217/500 training loss: 0.1207136
+validate loss: 0.1214257
+Epoch: 218/500 training loss: 0.1202955
+validate loss: 0.1228619
+Epoch: 219/500 training loss: 0.1202634
+validate loss: 0.1216483
+Epoch: 220/500 training loss: 0.1202150
+validate loss: 0.1219786
+Epoch: 221/500 training loss: 0.1199040
+validate loss: 0.1218858
+Epoch: 222/500 training loss: 0.1208976
+validate loss: 0.1216657
+Epoch: 223/500 training loss: 0.1212883
+validate loss: 0.1214192
+Epoch: 224/500 training loss: 0.1211585
+validate loss: 0.1202341
+Epoch: 225/500 training loss: 0.1202160
+validate loss: 0.1213254
+Epoch: 226/500 training loss: 0.1205400
+validate loss: 0.1208408
+Epoch: 227/500 training loss: 0.1202648
+validate loss: 0.1215377
+Epoch: 228/500 training loss: 0.1219279
+validate loss: 0.1220250
+Epoch: 229/500 training loss: 0.1201978
+validate loss: 0.1220280
+Epoch: 230/500 training loss: 0.1203514
+validate loss: 0.1202974
+Epoch: 231/500 training loss: 0.1205064
+validate loss: 0.1206908
+Epoch: 232/500 training loss: 0.1199157
+validate loss: 0.1208005
+Epoch: 233/500 training loss: 0.1201408
+validate loss: 0.1212951
+Epoch: 234/500 training loss: 0.1201615
+validate loss: 0.1236548
+Epoch: 235/500 training loss: 0.1202870
+validate loss: 0.1209429
+Epoch: 236/500 training loss: 0.1204938
+validate loss: 0.1221482
+Epoch: 237/500 training loss: 0.1197156
+validate loss: 0.1208663
+Epoch: 238/500 training loss: 0.1199488
+validate loss: 0.1211004
+Epoch: 239/500 training loss: 0.1201740
+validate loss: 0.1207978
+Epoch: 240/500 training loss: 0.1202916
+validate loss: 0.1215955
+Epoch: 241/500 training loss: 0.1197840
+validate loss: 0.1220259
+Epoch: 242/500 training loss: 0.1199173
+validate loss: 0.1214703
+Epoch: 243/500 training loss: 0.1201462
+validate loss: 0.1212521
+Epoch: 244/500 training loss: 0.1197745
+validate loss: 0.1212274
+Epoch: 245/500 training loss: 0.1199822
+validate loss: 0.1211531
+Epoch: 246/500 training loss: 0.1193207
+validate loss: 0.1210260
+Epoch: 247/500 training loss: 0.1199215
+validate loss: 0.1212682
+Epoch: 248/500 training loss: 0.1204395
+validate loss: 0.1200165
+Best model saved with validation loss: 0.1200165
+Epoch: 249/500 training loss: 0.1197993
+validate loss: 0.1222663
+Epoch: 250/500 training loss: 0.1194836
+validate loss: 0.1204793
+Epoch: 251/500 training loss: 0.1196027
+validate loss: 0.1203012
+Epoch: 252/500 training loss: 0.1196009
+validate loss: 0.1217958
+Epoch: 253/500 training loss: 0.1206632
+validate loss: 0.1203710
+Epoch: 254/500 training loss: 0.1195336
+validate loss: 0.1215178
+Epoch: 255/500 training loss: 0.1200614
+validate loss: 0.1215612
+Epoch: 256/500 training loss: 0.1195852
+validate loss: 0.1214058
+Epoch: 257/500 training loss: 0.1196403
+validate loss: 0.1217598
+Epoch: 258/500 training loss: 0.1197299
+validate loss: 0.1217942
+Epoch: 259/500 training loss: 0.1202697
+validate loss: 0.1212210
+Epoch: 260/500 training loss: 0.1204009
+validate loss: 0.1221992
+Epoch: 261/500 training loss: 0.1201814
+validate loss: 0.1217141
+Epoch: 262/500 training loss: 0.1206499
+validate loss: 0.1214664
+Epoch: 263/500 training loss: 0.1199333
+validate loss: 0.1207096
+Epoch: 264/500 training loss: 0.1192962
+validate loss: 0.1201357
+Epoch: 265/500 training loss: 0.1192342
+validate loss: 0.1206183
+Epoch: 266/500 training loss: 0.1197587
+validate loss: 0.1206484
+Epoch: 267/500 training loss: 0.1199676
+validate loss: 0.1202858
+Epoch: 268/500 training loss: 0.1196467
+validate loss: 0.1206434
+Epoch: 269/500 training loss: 0.1207949
+validate loss: 0.1212335
+Epoch: 270/500 training loss: 0.1195210
+validate loss: 0.1201032
+Epoch: 271/500 training loss: 0.1196301
+validate loss: 0.1196935
+Best model saved with validation loss: 0.1196935
+Epoch: 272/500 training loss: 0.1196531
+validate loss: 0.1211453
+Epoch: 273/500 training loss: 0.1192417
+validate loss: 0.1197955
+Epoch: 274/500 training loss: 0.1195861
+validate loss: 0.1202302
+Epoch: 275/500 training loss: 0.1194594
+validate loss: 0.1205233
+Epoch: 276/500 training loss: 0.1194519
+validate loss: 0.1211920
+Epoch: 277/500 training loss: 0.1192259
+validate loss: 0.1214178
+Epoch: 278/500 training loss: 0.1191740
+validate loss: 0.1227603
+Epoch: 279/500 training loss: 0.1200226
+validate loss: 0.1216587
+Epoch: 280/500 training loss: 0.1200044
+validate loss: 0.1205013
+Epoch: 281/500 training loss: 0.1201033
+validate loss: 0.1249539
+Epoch: 282/500 training loss: 0.1197562
+validate loss: 0.1206921
+Epoch: 283/500 training loss: 0.1191947
+validate loss: 0.1200651
+Epoch: 284/500 training loss: 0.1188401
+validate loss: 0.1211527
+Epoch: 285/500 training loss: 0.1198446
+validate loss: 0.1202079
+Epoch: 286/500 training loss: 0.1192041
+validate loss: 0.1208410
+Epoch: 287/500 training loss: 0.1203292
+validate loss: 0.1227800
+Epoch: 288/500 training loss: 0.1213625
+validate loss: 0.1207830
+Epoch: 289/500 training loss: 0.1190715
+validate loss: 0.1203640
+Epoch: 290/500 training loss: 0.1190685
+validate loss: 0.1202344
+Epoch: 291/500 training loss: 0.1189176
+validate loss: 0.1194122
+Best model saved with validation loss: 0.1194122
+Epoch: 292/500 training loss: 0.1194229
+validate loss: 0.1205724
+Epoch: 293/500 training loss: 0.1193748
+validate loss: 0.1222773
+Epoch: 294/500 training loss: 0.1194332
+validate loss: 0.1210124
+Epoch: 295/500 training loss: 0.1190254
+validate loss: 0.1210797
+Epoch: 296/500 training loss: 0.1192918
+validate loss: 0.1210663
+Epoch: 297/500 training loss: 0.1191384
+validate loss: 0.1210553
+Epoch: 298/500 training loss: 0.1198155
+validate loss: 0.1206035
+Epoch: 299/500 training loss: 0.1199720
+validate loss: 0.1222806
+Epoch: 300/500 training loss: 0.1187520
+validate loss: 0.1199608
+Epoch: 301/500 training loss: 0.1191398
+validate loss: 0.1218209
+Epoch: 302/500 training loss: 0.1199407
+validate loss: 0.1215020
+Epoch: 303/500 training loss: 0.1198483
+validate loss: 0.1219378
+Epoch: 304/500 training loss: 0.1198755
+validate loss: 0.1201960
+Epoch: 305/500 training loss: 0.1195900
+validate loss: 0.1206747
+Epoch: 306/500 training loss: 0.1194102
+validate loss: 0.1206738
+Epoch: 307/500 training loss: 0.1191529
+validate loss: 0.1210123
+Epoch: 308/500 training loss: 0.1194620
+validate loss: 0.1199790
+Epoch: 309/500 training loss: 0.1191876
+validate loss: 0.1226069
+Epoch: 310/500 training loss: 0.1195050
+validate loss: 0.1195756
+Epoch: 311/500 training loss: 0.1186099
+validate loss: 0.1195018
+Epoch: 312/500 training loss: 0.1190095
+validate loss: 0.1219601
+Epoch: 313/500 training loss: 0.1193194
+validate loss: 0.1201473
+Epoch: 314/500 training loss: 0.1190058
+validate loss: 0.1206456
+Epoch: 315/500 training loss: 0.1189276
+validate loss: 0.1208962
+Epoch: 316/500 training loss: 0.1191683
+validate loss: 0.1199448
+Epoch: 317/500 training loss: 0.1192490
+validate loss: 0.1196222
+Epoch: 318/500 training loss: 0.1187667
+validate loss: 0.1201307
+Epoch: 319/500 training loss: 0.1186225
+validate loss: 0.1204409
+Epoch: 320/500 training loss: 0.1189154
+validate loss: 0.1203780
+Epoch: 321/500 training loss: 0.1194045
+validate loss: 0.1200594
+Epoch: 322/500 training loss: 0.1193922
+validate loss: 0.1209750
+Epoch: 323/500 training loss: 0.1188192
+validate loss: 0.1215593
+Epoch: 324/500 training loss: 0.1185738
+validate loss: 0.1199756
+Epoch: 325/500 training loss: 0.1188231
+validate loss: 0.1195669
+Epoch: 326/500 training loss: 0.1191027
+validate loss: 0.1209686
+Epoch: 327/500 training loss: 0.1190379
+validate loss: 0.1212650
+Epoch: 328/500 training loss: 0.1228972
+validate loss: 0.1201664
+Epoch: 329/500 training loss: 0.1195428
+validate loss: 0.1202411
+Epoch: 330/500 training loss: 0.1185684
+validate loss: 0.1198729
+Epoch: 331/500 training loss: 0.1190181
+validate loss: 0.1205186
+Epoch: 332/500 training loss: 0.1193295
+validate loss: 0.1203168
+Epoch: 333/500 training loss: 0.1186553
+validate loss: 0.1188604
+Best model saved with validation loss: 0.1188604
+Epoch: 334/500 training loss: 0.1187010
+validate loss: 0.1197907
+Epoch: 335/500 training loss: 0.1187696
+validate loss: 0.1210186
+Epoch: 336/500 training loss: 0.1192912
+validate loss: 0.1219994
+Epoch: 337/500 training loss: 0.1191337
+validate loss: 0.1199172
+Epoch: 338/500 training loss: 0.1187722
+validate loss: 0.1205911
+Epoch: 339/500 training loss: 0.1186275
+validate loss: 0.1201024
+Epoch: 340/500 training loss: 0.1182163
+validate loss: 0.1205901
+Epoch: 341/500 training loss: 0.1190808
+validate loss: 0.1197598
+Epoch: 342/500 training loss: 0.1185258
+validate loss: 0.1208841
+Epoch: 343/500 training loss: 0.1186620
+validate loss: 0.1206151
+Epoch: 344/500 training loss: 0.1184012
+validate loss: 0.1205227
+Epoch: 345/500 training loss: 0.1194233
+validate loss: 0.1224533
